@@ -329,7 +329,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496647
+            "stars": 497054
           }
         },
         {
@@ -340,10 +340,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-03T03:09:55Z",
+            "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92455
+            "stars": 92495
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-10T02:41:59Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89612
+            "stars": 89644
           }
         },
         {
@@ -368,10 +368,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T04:01:26Z",
+            "last_commit": "2026-08-18T03:11:20Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27244
+            "stars": 27255
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6547
+            "stars": 6548
           }
         },
         {
@@ -396,7 +396,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T17:01:11Z",
+            "last_commit": "2026-08-17T19:36:32Z",
             "owner": "punkpeye",
             "repo": "fastmcp",
             "stars": 3249
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:03:53.804Z",
+    "last_updated": "2026-08-18T03:58:53.054Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
     "original_repository_sha": "8ae1476d6993131ebf2853deb892bfdfc7d5f724",
     "enhanced_repository": "enhansome/enhansome-mcp-servers-devops",
