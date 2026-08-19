@@ -1,322 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔀 Source Control"
-    },
-    {
-      "description": "The official GitHub MCP server — battle-tested and feature-complete.\nCommunity options",
-      "items": [],
-      "title": "GitHub"
-    },
-    {
-      "description": "Native GitLab integration via their Duo platform.\nCommunity options",
-      "items": [],
-      "title": "GitLab"
-    },
-    {
-      "description": "Community options",
-      "items": [],
-      "title": "Azure DevOps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gitea & Gitee"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏗️ Infrastructure as Code"
-    },
-    {
-      "description": "HashiCorp's official MCP server for Terraform workflows.\nCommunity implementations",
-      "items": [],
-      "title": "Terraform"
-    },
-    {
-      "description": "Secrets management via MCP.",
-      "items": [],
-      "title": "Vault"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Pulumi"
-    },
-    {
-      "description": "The open-source Terraform alternative has its own MCP server.",
-      "items": [],
-      "title": "OpenTofu"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multi-IaC"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "☸️ Kubernetes and Containers"
-    },
-    {
-      "description": "Several solid options exist — pick based on your needs.",
-      "items": [],
-      "title": "Kubernetes"
-    },
-    {
-      "description": "Native Go implementation, no kubectl dependency.",
-      "items": [],
-      "title": "containers/kubernetes-mcp-server"
-    },
-    {
-      "description": "Microsoft's implementation.",
-      "items": [],
-      "title": "Azure/mcp-kubernetes"
-    },
-    {
-      "description": "Popular community option.",
-      "items": [],
-      "title": "Flux159/mcp-server-kubernetes"
-    },
-    {
-      "description": "Multi-tool support.",
-      "items": [],
-      "title": "alexei-led/k8s-mcp-server"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community Kubernetes servers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tilt"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Nomad"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Docker Hub"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Portainer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Qovery"
-    },
-    {
-      "description": "Tools for executing commands or interacting with local environments safely.",
-      "items": [],
-      "title": "🖥️ Command Line & Local Ops"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🌐 Browser Automation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⚙️ Code Execution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🤖 Coding Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔗 Aggregators"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🚀 CI/CD"
-    },
-    {
-      "description": "GitOps deployment management via AI.",
-      "items": [],
-      "title": "Argo CD"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Jenkins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Actions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Codemagic (Mobile CI/CD)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "DevOps Visibility"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "CI/CD Helpers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Build Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "☁️ Cloud Platforms"
-    },
-    {
-      "description": "AWS provides a collection of MCP servers for their services.\nCommunity options",
-      "items": [],
-      "title": "AWS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Azure"
-    },
-    {
-      "description": "Comprehensive coverage of Cloudflare's platform.",
-      "items": [],
-      "title": "Cloudflare"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Alibaba Cloud"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📊 Observability"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Grafana"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datadog"
-    },
-    {
-      "description": "Several community implementations available.\nAWS also provides a Prometheus MCP Server for Amazon Managed Prometheus with SigV4 auth.",
-      "items": [],
-      "title": "Prometheus"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "VictoriaMetrics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Alertmanager"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "APM & Monitoring"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔒 Security"
-    },
-    {
-      "description": "Vulnerability scanning directly from your AI assistant.",
-      "items": [],
-      "title": "Snyk"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Semgrep"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community Security Servers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📝 Collaboration"
-    },
-    {
-      "description": "Community alternative with Server/Data Center support: sooperset/mcp-atlassian.",
-      "items": [],
-      "title": "Atlassian (Jira + Confluence)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Jira (Community)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Project Management"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Service Desks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Notion"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⚡ Getting Started"
-    },
-    {
-      "description": "Most MCP servers follow this configuration pattern for Claude Desktop or similar clients:\nFor remote/hosted servers:",
-      "items": [],
-      "title": "Basic Setup Pattern"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🛡️ Safety First"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -325,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497488
+            "stars": 497666
           }
         },
         {
@@ -339,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92547
+            "stars": 92564
           }
         },
         {
@@ -353,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890668799,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89676
+            "stars": 89684
           }
         },
         {
@@ -367,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896296825,
             "language": "Python",
             "last_commit": "2026-08-18T20:37:19Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27270
+            "stars": 27284
           }
         },
         {
@@ -381,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 915233417,
             "language": null,
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6549
+            "stars": 6550
           }
         },
         {
@@ -395,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 908799323,
             "language": "TypeScript",
             "last_commit": "2026-08-19T00:36:49Z",
             "owner": "punkpeye",
@@ -404,16 +95,12 @@
         }
       ],
       "title": "Resources"
-    },
-    {
-      "description": "To the extent possible under law, Wagner has waived all copyright and related rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:59:18.743Z",
+    "last_updated": "2026-08-19T12:41:48.060Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
+    "original_repository_id": 1113881736,
     "original_repository_sha": "8ae1476d6993131ebf2853deb892bfdfc7d5f724",
     "enhanced_repository": "enhansome/enhansome-mcp-servers-devops",
     "enhanced_repository_description": null,
