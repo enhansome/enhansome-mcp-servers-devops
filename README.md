@@ -33,7 +33,7 @@ The official GitHub MCP server — battle-tested and feature-complete.
 
 |                      |                                                                                                                      |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Repo**             | [github/github-mcp-server](https://github.com/github/github-mcp-server) ⭐ 32,349 \| 🐛 353 \| 🌐 Go \| 📅 2026-08-19 |
+| **Repo**             | [github/github-mcp-server](https://github.com/github/github-mcp-server) ⭐ 32,369 \| 🐛 343 \| 🌐 Go \| 📅 2026-08-19 |
 | **Maintainer**       | 🏷️ GitHub (Official)                                                                                                |
 | **What it does**     | Repository operations, issues, PRs, code search, GitHub Actions workflows.                                           |
 | **Standout feature** | 🛡️ Lockdown mode for public repos to prevent prompt injection.                                                      |
@@ -61,7 +61,7 @@ Native GitLab integration via their Duo platform.
 | Repo                                                                                                                                                               | Notes                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
 | [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) ⭐ 94 \| 🐛 4 \| 🌐 JavaScript \| 📅 2026-07-27                                           | Merge requests + issues for GitLab.     |
-| [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/server-gitlab) ⭐ 89,684 \| 🐛 518 \| 🌐 TypeScript \| 📅 2026-08-18 | Reference GitLab server implementation. |
+| [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/server-gitlab) ⭐ 89,700 \| 🐛 522 \| 🌐 TypeScript \| 📅 2026-08-20 | Reference GitLab server implementation. |
 
 ### Azure DevOps
 
@@ -86,7 +86,7 @@ Native GitLab integration via their Duo platform.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
 | [gitea/gitea-mcp](https://gitea.com/gitea/gitea-mcp)                                                                                                         | MCP server for Gitea instances.            |
 | [oschina/gitee](https://github.com/oschina/gitee)                                                                                                            | Gitee API integration.                     |
-| [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/server-git) ⭐ 89,684 \| 🐛 518 \| 🌐 TypeScript \| 📅 2026-08-18 | Reference local Git server implementation. |
+| [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/server-git) ⭐ 89,700 \| 🐛 522 \| 🌐 TypeScript \| 📅 2026-08-20 | Reference local Git server implementation. |
 
 ## 🏗️ Infrastructure as Code
 
@@ -96,7 +96,7 @@ HashiCorp's official MCP server for Terraform workflows.
 
 |                  |                                                                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Repo**         | [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) ⭐ 1,510 \| 🐛 48 \| 🌐 Go \| 📅 2026-08-18 |
+| **Repo**         | [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) ⭐ 1,510 \| 🐛 46 \| 🌐 Go \| 📅 2026-08-20 |
 | **Docs**         | [HashiCorp Developer](https://developer.hashicorp.com/terraform/mcp-server)                                                    |
 | **Maintainer**   | 🏷️ HashiCorp (Official)                                                                                                       |
 | **What it does** | Registry search, workspace management, plan/apply operations, state inspection.                                                |
@@ -166,7 +166,7 @@ Native Go implementation, no kubectl dependency.
 
 |                   |                                                                                                                                    |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Repo**          | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) ⭐ 1,979 \| 🐛 99 \| 🌐 Go \| 📅 2026-08-18 |
+| **Repo**          | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) ⭐ 1,981 \| 🐛 93 \| 🌐 Go \| 📅 2026-08-20 |
 | **Why choose it** | ⚡ Single binary, direct K8s API access, multi-cluster support.                                                                     |
 
 #### Azure/mcp-kubernetes
@@ -175,7 +175,7 @@ Microsoft's implementation.
 
 |                   |                                                                                                        |
 | ----------------- | ------------------------------------------------------------------------------------------------------ |
-| **Repo**          | [Azure/mcp-kubernetes](https://github.com/Azure/mcp-kubernetes) ⭐ 60 \| 🐛 7 \| 🌐 Go \| 📅 2026-08-11 |
+| **Repo**          | [Azure/mcp-kubernetes](https://github.com/Azure/mcp-kubernetes) ⭐ 60 \| 🐛 8 \| 🌐 Go \| 📅 2026-08-11 |
 | **Why choose it** | 🎯 Unified kubectl tool interface, minimal context consumption.                                        |
 
 #### Flux159/mcp-server-kubernetes
@@ -202,12 +202,12 @@ Multi-tool support.
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) ⭐ 954 \| 🐛 6 \| 🌐 Python \| 📅 2026-04-08     | Kubernetes CLI via MCP (read/write).                                                                 |
 | [aadarshjain/kubectl-mcp-server](https://github.com/aadarshjain/kubectl-mcp-server) ⭐ 2 \| 🐛 1 \| 🌐 Python \| 📅 2025-09-06 | Local kubectl server (read-only by default).                                                         |
-| [manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) ⭐ 1,979 \| 🐛 99 \| 🌐 Go \| 📅 2026-08-18    | Kubernetes + OpenShift support.                                                                      |
+| [manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) ⭐ 1,981 \| 🐛 93 \| 🌐 Go \| 📅 2026-08-20    | Kubernetes + OpenShift support.                                                                      |
 | [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) ⭐ 386 \| 🐛 11 \| 🌐 Go \| 📅 2025-12-22                            | Go-based Kubernetes operations.                                                                      |
 | [weibaohui/k8m](https://github.com/weibaohui/k8m) ⭐ 872 \| 🐛 25 \| 🌐 Go \| 📅 2026-08-14                                    | Multi-cluster management + UI.                                                                       |
 | [weibaohui/kom](https://github.com/weibaohui/kom) ⭐ 149 \| 🐛 5 \| 🌐 Go \| 📅 2026-08-14                                     | SDK + multi-cluster operations.                                                                      |
 | [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) ⭐ 28 \| 🐛 3 \| 🌐 Go \| 📅 2025-05-16                      | Cluster health analysis and ops.                                                                     |
-| [kubestellar/console](https://github.com/kubestellar/console) ⭐ 127 \| 🐛 33 \| 🌐 TypeScript \| 📅 2026-08-19                | AI-powered multi-cluster management dashboard with MCP server (kc-agent) for AI-assisted operations. |
+| [kubestellar/console](https://github.com/kubestellar/console) ⭐ 127 \| 🐛 29 \| 🌐 TypeScript \| 📅 2026-08-20                | AI-powered multi-cluster management dashboard with MCP server (kc-agent) for AI-assisted operations. |
 
 ### Tilt
 
@@ -227,7 +227,7 @@ Multi-tool support.
 
 |                  |                                                                                                     |
 | ---------------- | --------------------------------------------------------------------------------------------------- |
-| **Repo**         | [docker/hub-mcp](https://github.com/docker/hub-mcp) ⭐ 159 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-07-30 |
+| **Repo**         | [docker/hub-mcp](https://github.com/docker/hub-mcp) ⭐ 160 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-07-30 |
 | **Docs**         | [Docker Hub MCP](https://docs.docker.com/ai/mcp-catalog-and-toolkit/hub-mcp/)                       |
 | **Maintainer**   | 🏷️ Docker (Official)                                                                               |
 | **What it does** | 🐳 Image discovery, repository management, tag inspection.                                          |
@@ -236,7 +236,7 @@ Multi-tool support.
 
 |                  |                                                                                                                   |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Repo**         | [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) ⭐ 217 \| 🐛 5 \| 🌐 Python \| 📅 2026-08-13 |
+| **Repo**         | [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) ⭐ 217 \| 🐛 7 \| 🌐 Python \| 📅 2026-08-13 |
 | **Maintainer**   | 🏷️ Portainer (Official)                                                                                          |
 | **What it does** | Container management, deployments, environment operations.                                                        |
 | **Note**         | 🛡️ Read-only mode available for safety.                                                                          |
@@ -259,11 +259,11 @@ Tools for executing commands or interacting with local environments safely.
 | [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) ⭐ 177 \| 🐛 10 \| 🌐 Python \| 📅 2025-07-04                                           | Secure CLI execution with policies.                                                                          |
 | [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) ⭐ 231 \| 🐛 8 \| 🌐 TypeScript \| 📅 2026-07-29                                      | Run commands and scripts via MCP.                                                                            |
 | [Harsh-2002/SSH-MCP](https://github.com/Harsh-2002/SSH-MCP) ⭐ 4 \| 🐛 0 \| 🌐 Go \| 📅 2026-02-17                                                            | Remote SSH/SFTP with 43 tools: Docker, monitoring, databases, file ops, VoIP diagnostics, jump host support. |
-| [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) ⭐ 187 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-15                                                | Shell command execution server.                                                                              |
+| [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) ⭐ 188 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-15                                                | Shell command execution server.                                                                              |
 | [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) ⭐ 567 \| 🐛 8 \| 🌐 TypeScript \| 📅 2025-09-20                                            | iTerm integration for macOS.                                                                                 |
 | [OthmaneBlial/term\_mcp\_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) ⭐ 17 \| 🐛 0 \| 🌐 Python \| 📅 2025-09-21                             | Terminal server for DeepSeek.                                                                                |
 | [maxim-saplin/mcp\_safe\_local\_python\_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) ⭐ 46 \| 🐛 1 \| 🌐 Python \| 📅 2025-07-17 | Safe local Python execution.                                                                                 |
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,349 \| 🐛 201 \| 🌐 TypeScript \| 📅 2026-08-19                  | Local file/process control.                                                                                  |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,358 \| 🐛 211 \| 🌐 TypeScript \| 📅 2026-08-19                  | Local file/process control.                                                                                  |
 | [automateyournetwork/pyATS\_MCP](https://github.com/automateyournetwork/pyATS_MCP) ⭐ 79 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-10                                | Cisco pyATS network automation.                                                                              |
 
 ## 🌐 Browser Automation
@@ -272,11 +272,11 @@ Tools for executing commands or interacting with local environments safely.
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [aircodelabs/grasp](https://github.com/aircodelabs/grasp) ⭐ 4 \| 🐛 0 \| 🌐 TypeScript \| 📅 2025-06-20                                                  | Self-hosted browser agent.                                                                                                    |
 | [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) ⚠️ Archived                                                  | Cloud browser automation.                                                                                                     |
-| [browsermcp/mcp](https://github.com/browsermcp/mcp) ⭐ 6,990 \| 🐛 147 \| 🌐 TypeScript \| 📅 2025-04-24                                                  | Local Chrome control.                                                                                                         |
+| [browsermcp/mcp](https://github.com/browsermcp/mcp) ⭐ 6,992 \| 🐛 147 \| 🌐 TypeScript \| 📅 2025-04-24                                                  | Local Chrome control.                                                                                                         |
 | [Automata-Labs-team/MCP-Server-Playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) ⭐ 298 \| 🐛 10 \| 🌐 JavaScript \| 📅 2025-06-05 | Playwright automation.                                                                                                        |
 | [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) ⭐ 189 \| 🐛 5 \| 🌐 Python \| 📅 2025-01-07      | Playwright + Python.                                                                                                          |
 | [executeautomation/playwright-mcp-server](https://github.com/executeautomation/playwright-mcp-server)                                                    | Playwright MCP server.                                                                                                        |
-| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 36,271 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-08-17                               | Official Playwright MCP.                                                                                                      |
+| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 36,284 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-19                               | Official Playwright MCP.                                                                                                      |
 | [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) ⭐ 842 \| 🐛 19 \| 🌐 Python \| 📅 2026-05-20                   | browser-use with SSE transport.                                                                                               |
 | [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) ⭐ 315 \| 🐛 21 \| 🌐 TypeScript \| 📅 2026-07-24                             | Browser control MCP.                                                                                                          |
 | [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) ⭐ 54 \| 🐛 8 \| 🌐 TypeScript \| 📅 2026-08-16                               | Browser automation toolkit.                                                                                                   |
@@ -289,7 +289,7 @@ Tools for executing commands or interacting with local environments safely.
 
 | Repo                                                                                                                                                                | Notes                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [pydantic/pydantic-ai (mcp-run-python)](https://github.com/pydantic/pydantic-ai/tree/main/packages/mcp-run-python) ⭐ 19,389 \| 🐛 718 \| 🌐 Python \| 📅 2026-08-19 | Run Python in a sandbox.        |
+| [pydantic/pydantic-ai (mcp-run-python)](https://github.com/pydantic/pydantic-ai/tree/main/packages/mcp-run-python) ⭐ 19,401 \| 🐛 723 \| 🌐 Python \| 📅 2026-08-20 | Run Python in a sandbox.        |
 | [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) ⭐ 46 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-03-17                                                    | Secure JS/Python sandbox.       |
 | [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) ⭐ 157 \| 🐛 14 \| 🌐 TypeScript \| 📅 2025-11-24                  | Node.js Docker sandbox.         |
 | [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) ⭐ 194 \| 🐛 8 \| 🌐 Go \| 📅 2026-03-21                                                           | Access APIs from OpenAPI specs. |
@@ -298,8 +298,8 @@ Tools for executing commands or interacting with local environments safely.
 
 | Repo                                                                                                                            | Notes                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) ⭐ 915 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-18                 | GitHub research + analysis agent.                                                                                                |
-| [oraios/serena](https://github.com/oraios/serena) ⭐ 28,228 \| 🐛 111 \| 🌐 Python \| 📅 2026-08-18                              | LSP-based coding agent.                                                                                                          |
+| [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) ⭐ 916 \| 🐛 3 \| 🌐 TypeScript \| 📅 2026-08-18                 | GitHub research + analysis agent.                                                                                                |
+| [oraios/serena](https://github.com/oraios/serena) ⭐ 28,260 \| 🐛 112 \| 🌐 Python \| 📅 2026-08-18                              | LSP-based coding agent.                                                                                                          |
 | [ezyang/codemcp](https://github.com/ezyang/codemcp) ⭐ 1,607 \| 🐛 78 \| 🌐 Python \| 📅 2025-12-25                              | Simple coding agent MCP.                                                                                                         |
 | [Wolfe-Jam/claude-faf-mcp](https://github.com/Wolfe-Jam/claude-faf-mcp) ⭐ 22 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-08-19          | Persistent project context tools.                                                                                                |
 | [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) ⭐ 389 \| 🐛 13 \| 🌐 TypeScript \| 📅 2026-01-07      | VS Code workspace tooling.                                                                                                       |
@@ -316,12 +316,12 @@ Tools for executing commands or interacting with local environments safely.
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [askbudi/roundtable](https://github.com/askbudi/roundtable) ⭐ 121 \| 🐛 7 \| 🌐 Python \| 📅 2025-10-06                                                  | Multi-assistant MCP hub.                                                                                                                                                     |
 | [composiohq/rube](https://github.com/composiohq/rube)                                                                                                    | 500+ app integrations.                                                                                                                                                       |
-| [julien040/anyquery](https://github.com/julien040/anyquery) ⭐ 1,760 \| 🐛 6 \| 🌐 Go \| 📅 2026-08-16                                                    | SQL over 40+ apps.                                                                                                                                                           |
+| [julien040/anyquery](https://github.com/julien040/anyquery) ⭐ 1,761 \| 🐛 6 \| 🌐 Go \| 📅 2026-08-16                                                    | SQL over 40+ apps.                                                                                                                                                           |
 | [metatool-ai/metatool-app](https://github.com/metatool-ai/metatool-app) ⭐ 2,611 \| 🐛 105 \| 🌐 TypeScript \| 📅 2026-06-22                              | MetaMCP with GUI.                                                                                                                                                            |
-| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ⭐ 39,606 \| 🐛 2 \| 🌐 Makefile \| 📅 2026-08-13                                                   | Data unification + MCP.                                                                                                                                                      |
+| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ⭐ 39,613 \| 🐛 3 \| 🌐 Makefile \| 📅 2026-08-20                                                   | Data unification + MCP.                                                                                                                                                      |
 | [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ⭐ 35 \| 🐛 3 \| 📅 2025-04-24                                                  | MCP server registry.                                                                                                                                                         |
 | [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) ⭐ 368 \| 🐛 1 \| 🌐 Shell \| 📅 2026-08-19                                                   | Turn web APIs into MCP.                                                                                                                                                      |
-| [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/packages/mcp-server) ⭐ 11,628 \| 🐛 4,309 \| 🌐 JavaScript \| 📅 2026-08-19 | 2,500+ API integrations.                                                                                                                                                     |
+| [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/packages/mcp-server) ⭐ 11,632 \| 🐛 4,313 \| 🌐 JavaScript \| 📅 2026-08-19 | 2,500+ API integrations.                                                                                                                                                     |
 | [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) ⭐ 135 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-05-10                      | Proxy + discovery layer.                                                                                                                                                     |
 | [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) ⭐ 103 \| 🐛 1 \| 🌐 Rust \| 📅 2026-02-15                                                    | MCP load balancing.                                                                                                                                                          |
 | [waystation-ai/mcp](https://github.com/waystation-ai/mcp) ⭐ 61 \| 🐛 1 \| 🌐 JavaScript \| 📅 2025-09-10                                                 | Connect MCP hosts to apps.                                                                                                                                                   |
@@ -388,7 +388,7 @@ GitOps deployment management via AI.
 | Repo                                                                                                                 | Notes                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) ⭐ 30 \| 🐛 0 \| 🌐 Java \| 📅 2026-08-19   | Maven and build tooling.                                                                                                     |
-| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) ⭐ 3,373 \| 🐛 12 \| 🌐 TypeScript \| 📅 2026-08-14 | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) ⭐ 3,378 \| 🐛 12 \| 🌐 TypeScript \| 📅 2026-08-14 | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ## ☁️ Cloud Platforms
 
@@ -398,7 +398,7 @@ AWS provides a collection of MCP servers for their services.
 
 |                |                                                                                               |
 | -------------- | --------------------------------------------------------------------------------------------- |
-| **Repo**       | [awslabs/mcp](https://github.com/awslabs/mcp) ⭐ 9,621 \| 🐛 276 \| 🌐 Python \| 📅 2026-08-18 |
+| **Repo**       | [awslabs/mcp](https://github.com/awslabs/mcp) ⭐ 9,620 \| 🐛 274 \| 🌐 Python \| 📅 2026-08-20 |
 | **Docs**       | [AWS MCP Servers](https://awslabs.github.io/mcp/)                                             |
 | **Maintainer** | 🏷️ AWS (Official)                                                                            |
 | **Includes**   | 📦 AWS API server, Documentation server, Knowledge server, Prometheus server.                 |
@@ -423,7 +423,7 @@ Comprehensive coverage of Cloudflare's platform.
 
 |                  |                                                                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Repo**         | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) ⭐ 4,093 \| 🐛 60 \| 🌐 TypeScript \| 📅 2026-08-11 |
+| **Repo**         | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) ⭐ 4,095 \| 🐛 60 \| 🌐 TypeScript \| 📅 2026-08-11 |
 | **Docs**         | [Cloudflare Agents Docs](https://developers.cloudflare.com/agents/model-context-protocol/mcp-servers-for-cloudflare/)                      |
 | **Maintainer**   | 🏷️ Cloudflare (Official)                                                                                                                  |
 | **What it does** | ⚡ Workers, KV, R2, D1, observability.                                                                                                      |
@@ -436,7 +436,7 @@ Comprehensive coverage of Cloudflare's platform.
 | **Repo**           | [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) ⭐ 126 \| 🐛 4 \| 🌐 Python \| 📅 2026-03-16                                                                                                                                                                                                                                                                                                                                             |
 | **Maintainer**     | 🏷️ Alibaba Cloud (Official)                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **What it does**   | ECS, Cloud Monitor, OOS operations.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Also available** | 📦 [ACK (Kubernetes)](https://github.com/aliyun/alibabacloud-ack-mcp-server) ⭐ 116 \| 🐛 8 \| 🌐 Python \| 📅 2026-07-31, [DataWorks](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) ⭐ 50 \| 🐛 11 \| 🌐 TypeScript \| 📅 2026-06-16, [DMS](https://github.com/aliyun/alibabacloud-dms-mcp-server) ⭐ 52 \| 🐛 16 \| 🌐 Python \| 📅 2026-07-29, [Function Compute](https://github.com/aliyun/alibabacloud-fc-mcp-server) ⭐ 8 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-02-14. |
+| **Also available** | 📦 [ACK (Kubernetes)](https://github.com/aliyun/alibabacloud-ack-mcp-server) ⭐ 115 \| 🐛 8 \| 🌐 Python \| 📅 2026-07-31, [DataWorks](https://github.com/aliyun/alibabacloud-dataworks-mcp-server) ⭐ 50 \| 🐛 11 \| 🌐 TypeScript \| 📅 2026-06-16, [DMS](https://github.com/aliyun/alibabacloud-dms-mcp-server) ⭐ 52 \| 🐛 16 \| 🌐 Python \| 📅 2026-07-29, [Function Compute](https://github.com/aliyun/alibabacloud-fc-mcp-server) ⭐ 8 \| 🐛 8 \| 🌐 JavaScript \| 📅 2026-02-14. |
 
 ### Other Platforms
 
@@ -451,7 +451,7 @@ Comprehensive coverage of Cloudflare's platform.
 
 |                  |                                                                                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Repo**         | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ⭐ 3,371 \| 🐛 129 \| 🌐 Go \| 📅 2026-08-19                                                          |
+| **Repo**         | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) ⭐ 3,373 \| 🐛 115 \| 🌐 Go \| 📅 2026-08-19                                                          |
 | **Maintainer**   | 🏷️ Grafana Labs (Official)                                                                                                                                        |
 | **What it does** | 📈 Dashboard queries, alerts, datasource info, incident management.                                                                                                |
 | **Requires**     | ⚠️ Grafana 9.0+.                                                                                                                                                   |
@@ -461,7 +461,7 @@ Comprehensive coverage of Cloudflare's platform.
 
 |                  |                                                                                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Repo**         | [TANTIOPE/datadog-mcp-server](https://github.com/TANTIOPE/datadog-mcp-server) ⭐ 5 \| 🐛 15 \| 🌐 TypeScript \| 📅 2026-08-18 |
+| **Repo**         | [TANTIOPE/datadog-mcp-server](https://github.com/TANTIOPE/datadog-mcp-server) ⭐ 5 \| 🐛 15 \| 🌐 TypeScript \| 📅 2026-08-19 |
 | **Maintainer**   | 👥 Community                                                                                                                 |
 | **What it does** | 📊 Logs search, APM trace filtering, metrics queries, dashboards, monitors, incidents, SLOs, synthetics, and more.           |
 | **Note**         | 📦 Available via `npx datadog-mcp` or Docker. Supports stdio + HTTP transports, read-only mode.                              |
@@ -472,7 +472,7 @@ Several community implementations available.
 
 | Repo                                                                                                                                   | Lang       | Notes                                |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ |
-| [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) ⭐ 511 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-05          | 🐍 Python  | ⭐ 177 stars, well-documented.        |
+| [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) ⭐ 512 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-05          | 🐍 Python  | ⭐ 177 stars, well-documented.        |
 | [yshngg/prometheus-mcp-server](https://github.com/yshngg/prometheus-mcp-server) ⭐ 4 \| 🐛 1 \| 🌐 Go \| 📅 2026-08-04                  | 🏎️ Go     | ✅ 100% Prometheus API compatibility. |
 | [idanfishman/prometheus-mcp](https://github.com/idanfishman/prometheus-mcp) ⭐ 27 \| 🐛 4 \| 🌐 TypeScript \| 📅 2026-02-09             | 📇 Node.js | 📡 stdio + HTTP transports.          |
 | [etruong42/prometheus-mcp](https://github.com/etruong42/prometheus-mcp) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2025-04-24                      | 🐍 Python  | Community implementation.            |
@@ -485,7 +485,7 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 
 |                  |                                                                                                                                                            |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Repo**         | [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) ⭐ 214 \| 🐛 20 \| 🌐 Go \| 📅 2026-07-19 |
+| **Repo**         | [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) ⭐ 215 \| 🐛 20 \| 🌐 Go \| 📅 2026-07-19 |
 | **What it does** | VictoriaMetrics query + metrics access.                                                                                                                    |
 
 ### Alertmanager
@@ -500,7 +500,7 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 | Repo                                                                                                                          | Notes                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) ⭐ 134 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-08-19 | Dynatrace monitoring integration.                                                             |
-| [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) ⭐ 59 \| 🐛 11 \| 🌐 Go \| 📅 2026-08-19                   | Last9 observability.                                                                          |
+| [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) ⭐ 59 \| 🐛 13 \| 🌐 Go \| 📅 2026-08-20                   | Last9 observability.                                                                          |
 | [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-05-06           | Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio. |
 
 ## 🔒 Security
@@ -530,7 +530,7 @@ Vulnerability scanning directly from your AI assistant.
 
 | Repo                                                                                                                                 | Notes                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,822 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23                       | Ghidra reverse engineering.                                                                                     |
+| [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,826 \| 🐛 82 \| 🌐 Java \| 📅 2025-06-23                       | Ghidra reverse engineering.                                                                                     |
 | [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) ⭐ 134 \| 🐛 4 \| 🌐 Java \| 📅 2026-08-19                                        | Ghidra analysis tools.                                                                                          |
 | [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) ⭐ 157 \| 🐛 5 \| 🌐 TypeScript \| 📅 2026-03-31                | Shodan search + CVE data.                                                                                       |
 | [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) ⭐ 146 \| 🐛 6 \| 🌐 TypeScript \| 📅 2026-05-24        | VirusTotal scanning.                                                                                            |
@@ -557,7 +557,7 @@ Vulnerability scanning directly from your AI assistant.
 | **What it does** | 📋 Jira issues, Confluence pages, Compass integration, cross-product workflows.                                                      |
 | **Security**     | 🔐 OAuth 2.0, respects existing permissions.                                                                                         |
 
-Community alternative with Server/Data Center support: [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) ⭐ 5,767 | 🐛 188 | 🌐 Python | 📅 2026-08-19.
+Community alternative with Server/Data Center support: [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) ⭐ 5,770 | 🐛 188 | 🌐 Python | 📅 2026-08-19.
 
 ### Jira (Community)
 
@@ -570,7 +570,7 @@ Community alternative with Server/Data Center support: [sooperset/mcp-atlassian]
 
 |                  |                                                                                                                         |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Repo**         | [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) ⭐ 1 \| 🐛 1 \| 🌐 Python \| 📅 2026-01-13 |
+| **Repo**         | [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-01-13 |
 | **What it does** | Project workflows via PraisonAI.                                                                                        |
 
 ### Service Desks
@@ -641,12 +641,12 @@ Requirements:
 
 ## Resources
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,564 | 🐛 3,187 | 📅 2026-08-17
-* [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) ⭐ 89,684 | 🐛 518 | 🌐 TypeScript | 📅 2026-08-18
-* [FastMCP (jlowin)](https://github.com/jlowin/fastmcp) ⭐ 27,284 | 🐛 268 | 🌐 Python | 📅 2026-08-18
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,878 | 🐛 103 | 📅 2026-08-18
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,582 | 🐛 3,223 | 📅 2026-08-17
+* [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) ⭐ 89,700 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-20
+* [FastMCP (jlowin)](https://github.com/jlowin/fastmcp) ⭐ 27,303 | 🐛 269 | 🌐 Python | 📅 2026-08-20
 * [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6,550 | 🐛 74 | 📅 2026-06-07
-* [FastMCP (punkpeye)](https://github.com/punkpeye/fastmcp) ⭐ 3,249 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-19
+* [FastMCP (punkpeye)](https://github.com/punkpeye/fastmcp) ⭐ 3,250 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-19
 * [MCP Specification](https://modelcontextprotocol.io/)
 * [Anthropic MCP Documentation](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
 
@@ -658,4 +658,4 @@ To the extent possible under law, [Wagner](https://www.trywagner.dev) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
