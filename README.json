@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497878
+            "stars": 498318
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92582
+            "stars": 92630
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89700
+            "stars": 89727
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 896296825,
             "language": "Python",
-            "last_commit": "2026-08-20T00:39:03Z",
+            "last_commit": "2026-08-20T18:04:32Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27303
+            "stars": 27317
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6550
+            "stars": 6552
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-19T00:36:49Z",
             "owner": "punkpeye",
             "repo": "fastmcp",
-            "stars": 3250
+            "stars": 3253
           }
         }
       ],
@@ -98,10 +98,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:59:57.674Z",
+    "last_updated": "2026-08-21T04:02:22.003Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
     "original_repository_id": 1113881736,
-    "original_repository_sha": "8ae1476d6993131ebf2853deb892bfdfc7d5f724",
+    "original_repository_sha": "3d2c3e309eb80cd18f22c15f8eb4399578af7e51",
     "enhanced_repository": "enhansome/enhansome-mcp-servers-devops",
     "enhanced_repository_description": null,
     "title": "Awesome MCP Servers for DevOps with stars"
