@@ -12,10 +12,10 @@
             "archived": false,
             "id": 21737465,
             "language": null,
-            "last_commit": "2026-08-18T13:28:50Z",
+            "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 498318
+            "stars": 498689
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92630
+            "stars": 92666
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89727
+            "stars": 89761
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 896296825,
             "language": "Python",
-            "last_commit": "2026-08-20T18:04:32Z",
+            "last_commit": "2026-08-22T00:50:54Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27317
+            "stars": 27327
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6552
+            "stars": 6551
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 908799323,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T00:36:49Z",
+            "last_commit": "2026-08-21T04:40:50Z",
             "owner": "punkpeye",
             "repo": "fastmcp",
-            "stars": 3253
+            "stars": 3252
           }
         }
       ],
@@ -98,10 +98,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:02:22.003Z",
+    "last_updated": "2026-08-22T03:57:16.751Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
     "original_repository_id": 1113881736,
-    "original_repository_sha": "3d2c3e309eb80cd18f22c15f8eb4399578af7e51",
+    "original_repository_sha": "b835e5c1b81cd0185dc50d3297243a7618e1a348",
     "enhanced_repository": "enhansome/enhansome-mcp-servers-devops",
     "enhanced_repository_description": null,
     "title": "Awesome MCP Servers for DevOps with stars"
