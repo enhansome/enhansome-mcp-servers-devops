@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 498689
+            "stars": 499024
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92666
+            "stars": 92699
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89761
+            "stars": 89786
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 896296825,
             "language": "Python",
-            "last_commit": "2026-08-22T00:50:54Z",
+            "last_commit": "2026-08-22T20:10:01Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27327
+            "stars": 27334
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-21T04:40:50Z",
             "owner": "punkpeye",
             "repo": "fastmcp",
-            "stars": 3252
+            "stars": 3253
           }
         }
       ],
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:57:16.751Z",
+    "last_updated": "2026-08-23T04:01:46.289Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
     "original_repository_id": 1113881736,
     "original_repository_sha": "b835e5c1b81cd0185dc50d3297243a7618e1a348",
