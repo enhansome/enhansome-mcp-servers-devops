@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499024
+            "stars": 499343
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92699
+            "stars": 92725
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89786
+            "stars": 89812
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-22T20:10:01Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27334
+            "stars": 27349
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6551
+            "stars": 6552
           }
         },
         {
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:01:46.289Z",
+    "last_updated": "2026-08-24T04:06:58.771Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
     "original_repository_id": 1113881736,
     "original_repository_sha": "b835e5c1b81cd0185dc50d3297243a7618e1a348",
