@@ -4,6 +4,2559 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "github/github-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942771284,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:26:46Z",
+                "owner": "github",
+                "repo": "github-mcp-server",
+                "stars": 32466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ddukbg/github-enterprise-mcp",
+              "description": "GitHub Enterprise API integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953844812,
+                "language": "TypeScript",
+                "last_commit": "2025-09-14T03:39:33Z",
+                "owner": "ddukbg",
+                "repo": "github-enterprise-mcp",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adhikasp/mcp-git-ingest",
+              "description": "Read and analyze GitHub repositories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903643338,
+                "language": "Python",
+                "last_commit": "2025-01-26T10:32:13Z",
+                "owner": "adhikasp",
+                "repo": "mcp-git-ingest",
+                "stars": 313
+              }
+            }
+          ],
+          "description": "The official GitHub MCP server — battle-tested and feature-complete.\nCommunity options",
+          "node_type": "group",
+          "title": "GitHub"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kopfrechner/gitlab-mr-mcp",
+              "description": "Merge requests + issues for GitLab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954259665,
+                "language": "JavaScript",
+                "last_commit": "2026-07-27T23:43:52Z",
+                "owner": "kopfrechner",
+                "repo": "gitlab-mr-mcp",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "modelcontextprotocol/server-gitlab",
+              "description": "Reference GitLab server implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890668799,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T01:12:36Z",
+                "owner": "modelcontextprotocol",
+                "repo": "servers",
+                "stars": 89830
+              }
+            }
+          ],
+          "description": "Native GitLab integration via their Duo platform.\nCommunity options",
+          "node_type": "group",
+          "title": "GitLab"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tiberriver256/mcp-server-azure-devops",
+              "description": "Azure DevOps integration via MCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 940300511,
+                "language": "TypeScript",
+                "last_commit": "2026-07-07T13:58:26Z",
+                "owner": "Tiberriver256",
+                "repo": "mcp-server-azure-devops",
+                "stars": 382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stefanskiasan/azure-devops-mcp-server",
+              "description": "Azure DevOps server for Cline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 921367791,
+                "language": "TypeScript",
+                "last_commit": "2025-02-15T15:52:09Z",
+                "owner": "stefanskiasan",
+                "repo": "azure-devops-mcp-server",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vortiago/mcp-azure-devops",
+              "description": "Azure DevOps via Python SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948085438,
+                "language": "Python",
+                "last_commit": "2025-10-29T22:05:10Z",
+                "owner": "Vortiago",
+                "repo": "mcp-azure-devops",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aaronsb/ado-mcp",
+              "description": "Azure DevOps tools for pipelines/work items.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946945816,
+                "language": "TypeScript",
+                "last_commit": "2025-03-24T12:08:40Z",
+                "owner": "aaronsb",
+                "repo": "ado-mcp",
+                "stars": 17
+              }
+            }
+          ],
+          "description": "Community options",
+          "node_type": "group",
+          "title": "Azure DevOps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "modelcontextprotocol/server-git",
+              "description": "Reference local Git server implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890668799,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T01:12:36Z",
+                "owner": "modelcontextprotocol",
+                "repo": "servers",
+                "stars": 89830
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gitea & Gitee"
+        }
+      ],
+      "title": "🔀 Source Control"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "hashicorp/terraform-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969282615,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:13:08Z",
+                "owner": "hashicorp",
+                "repo": "terraform-mcp-server",
+                "stars": 1511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dulltz/mcp-server-hcp-terraform",
+              "description": "Terraform Cloud/HCP focused.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 961239100,
+                "language": "Python",
+                "last_commit": "2025-04-06T11:59:29Z",
+                "owner": "dulltz",
+                "repo": "mcp-server-hcp-terraform",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "guilhermeyoshida/mcp-terraform-assistant",
+              "description": "Local Terraform operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 962276663,
+                "language": "Python",
+                "last_commit": "2025-04-08T04:10:50Z",
+                "owner": "guilhermeyoshida",
+                "repo": "mcp-terraform-assistant",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jashkahar/Terraform-MCP-Server",
+              "description": "Exposes Terraform operations via MCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957339275,
+                "language": "Python",
+                "last_commit": "2025-03-31T07:20:36Z",
+                "owner": "jashkahar",
+                "repo": "Terraform-MCP-Server",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nwiizo/tfmcp",
+              "description": "Rust-based Terraform MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945036417,
+                "language": "Rust",
+                "last_commit": "2026-08-20T13:25:06Z",
+                "owner": "nwiizo",
+                "repo": "tfmcp",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "severity1/terraform-cloud-mcp",
+              "description": "Terraform Cloud API integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947580034,
+                "language": "Python",
+                "last_commit": "2025-11-02T07:43:19Z",
+                "owner": "severity1",
+                "repo": "terraform-cloud-mcp",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "westonplatter/mcp-terraform-python",
+              "description": "Terraform operations in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960217494,
+                "language": "Python",
+                "last_commit": "2025-04-04T03:59:36Z",
+                "owner": "westonplatter",
+                "repo": "mcp-terraform-python",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "HashiCorp's official MCP server for Terraform workflows.\nCommunity implementations",
+          "node_type": "group",
+          "title": "Terraform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "hashicorp/vault-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005167502,
+                "language": "Go",
+                "last_commit": "2026-08-20T04:04:55Z",
+                "owner": "hashicorp",
+                "repo": "vault-mcp-server",
+                "stars": 58
+              }
+            }
+          ],
+          "description": "Secrets management via MCP.",
+          "node_type": "group",
+          "title": "Vault"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "opentofu/opentofu-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988291134,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T12:43:06Z",
+                "owner": "opentofu",
+                "repo": "opentofu-mcp-server",
+                "stars": 107
+              }
+            }
+          ],
+          "description": "The open-source Terraform alternative has its own MCP server.",
+          "node_type": "group",
+          "title": "OpenTofu"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "stakpak/mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 943919055,
+                "language": "JavaScript",
+                "last_commit": "2026-07-04T12:40:36Z",
+                "owner": "stakpak",
+                "repo": "mcp",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-IaC"
+        }
+      ],
+      "title": "🏗️ Infrastructure as Code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repo",
+                  "description": "containers/kubernetes-mcp-server",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 930678258,
+                    "language": "Go",
+                    "last_commit": "2026-08-24T10:55:33Z",
+                    "owner": "containers",
+                    "repo": "kubernetes-mcp-server",
+                    "stars": 2014
+                  }
+                }
+              ],
+              "description": "Native Go implementation, no kubectl dependency.",
+              "node_type": "group",
+              "title": "containers/kubernetes-mcp-server"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repo",
+                  "description": "Azure/mcp-kubernetes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 972377559,
+                    "language": "Go",
+                    "last_commit": "2026-08-11T22:43:45Z",
+                    "owner": "Azure",
+                    "repo": "mcp-kubernetes",
+                    "stars": 60
+                  }
+                }
+              ],
+              "description": "Microsoft's implementation.",
+              "node_type": "group",
+              "title": "Azure/mcp-kubernetes"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repo",
+                  "description": "Flux159/mcp-server-kubernetes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 900130551,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-08T17:15:37Z",
+                    "owner": "Flux159",
+                    "repo": "mcp-server-kubernetes",
+                    "stars": 1574
+                  }
+                }
+              ],
+              "description": "Popular community option.",
+              "node_type": "group",
+              "title": "Flux159/mcp-server-kubernetes"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repo",
+                  "description": "alexei-led/k8s-mcp-server",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 956054596,
+                    "language": "Python",
+                    "last_commit": "2026-02-27T15:41:55Z",
+                    "owner": "alexei-led",
+                    "repo": "k8s-mcp-server",
+                    "stars": 213
+                  }
+                }
+              ],
+              "description": "Multi-tool support.",
+              "node_type": "group",
+              "title": "alexei-led/k8s-mcp-server"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rohitg00/kubectl-mcp-server",
+                  "description": "Kubernetes CLI via MCP (read/write).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 953587943,
+                    "language": "Python",
+                    "last_commit": "2026-04-08T22:37:48Z",
+                    "owner": "rohitg00",
+                    "repo": "kubectl-mcp-server",
+                    "stars": 955
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "aadarshjain/kubectl-mcp-server",
+                  "description": "Local kubectl server (read-only by default).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1022965325,
+                    "language": "Python",
+                    "last_commit": "2025-09-06T06:50:22Z",
+                    "owner": "aadarshjain",
+                    "repo": "kubectl-mcp-server",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "manusa/kubernetes-mcp-server",
+                  "description": "Kubernetes + OpenShift support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 930678258,
+                    "language": "Go",
+                    "last_commit": "2026-08-24T10:55:33Z",
+                    "owner": "containers",
+                    "repo": "kubernetes-mcp-server",
+                    "stars": 2014
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "strowk/mcp-k8s-go",
+                  "description": "Go-based Kubernetes operations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 896738164,
+                    "language": "Go",
+                    "last_commit": "2025-12-22T20:12:06Z",
+                    "owner": "strowk",
+                    "repo": "mcp-k8s-go",
+                    "stars": 386
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "weibaohui/k8m",
+                  "description": "Multi-cluster management + UI.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 870957129,
+                    "language": "Go",
+                    "last_commit": "2026-08-14T16:08:01Z",
+                    "owner": "weibaohui",
+                    "repo": "k8m",
+                    "stars": 874
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "weibaohui/kom",
+                  "description": "SDK + multi-cluster operations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 876112489,
+                    "language": "Go",
+                    "last_commit": "2026-08-14T01:43:05Z",
+                    "owner": "weibaohui",
+                    "repo": "kom",
+                    "stars": 149
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wenhuwang/mcp-k8s-eye",
+                  "description": "Cluster health analysis and ops.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 950358176,
+                    "language": "Go",
+                    "last_commit": "2025-05-16T09:47:30Z",
+                    "owner": "wenhuwang",
+                    "repo": "mcp-k8s-eye",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kubestellar/console",
+                  "description": "AI-powered multi-cluster management dashboard with MCP server (kc-agent) for AI-assisted operations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1135473716,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T14:30:32Z",
+                    "owner": "kubestellar",
+                    "repo": "console",
+                    "stars": 127
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Community Kubernetes servers"
+            }
+          ],
+          "description": "Several solid options exist — pick based on your needs.",
+          "node_type": "group",
+          "title": "Kubernetes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "rrmistry/tilt-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060128393,
+                "language": "Python",
+                "last_commit": "2026-03-08T17:58:49Z",
+                "owner": "rrmistry",
+                "repo": "tilt-mcp",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tilt"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "kocierik/mcp-nomad",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969499680,
+                "language": "Go",
+                "last_commit": "2026-08-23T22:04:36Z",
+                "owner": "kocierik",
+                "repo": "mcp-nomad",
+                "stars": 58
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nomad"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "docker/hub-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1000982653,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T09:43:08Z",
+                "owner": "docker",
+                "repo": "hub-mcp",
+                "stars": 161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docker Hub"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "solomon2773/nora",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186006472,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T07:17:26Z",
+                "owner": "solomon2773",
+                "repo": "nora",
+                "stars": 48
+              }
+            }
+          ],
+          "description": "Self-hosted control plane for deploying and operating OpenClaw and Hermes agent runtimes on Docker or Kubernetes.",
+          "node_type": "group",
+          "title": "Nora"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "portainer/portainer-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945624059,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:11:55Z",
+                "owner": "portainer",
+                "repo": "portainer-mcp",
+                "stars": 220
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Portainer"
+        }
+      ],
+      "title": "☸️ Kubernetes and Containers"
+    },
+    {
+      "description": "Tools for executing commands or interacting with local environments safely.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MladenSU/cli-mcp-server",
+          "description": "Secure CLI execution with policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 900498586,
+            "language": "Python",
+            "last_commit": "2025-07-04T21:02:36Z",
+            "owner": "MladenSU",
+            "repo": "cli-mcp-server",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g0t4/mcp-server-commands",
+          "description": "Run commands and scripts via MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 895838922,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T05:50:28Z",
+            "owner": "g0t4",
+            "repo": "mcp-server-commands",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harsh-2002/SSH-MCP",
+          "description": "Remote SSH/SFTP with 43 tools: Docker, monitoring, databases, file ops, VoIP diagnostics, jump host support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134119464,
+            "language": "Go",
+            "last_commit": "2026-02-17T11:56:16Z",
+            "owner": "Harsh-2002",
+            "repo": "SSH-MCP",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tumf/mcp-shell-server",
+          "description": "Shell command execution server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 901328207,
+            "language": "Python",
+            "last_commit": "2026-08-15T12:41:46Z",
+            "owner": "tumf",
+            "repo": "mcp-shell-server",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ferrislucas/iterm-mcp",
+          "description": "iTerm integration for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914173426,
+            "language": "TypeScript",
+            "last_commit": "2025-09-20T17:31:44Z",
+            "owner": "ferrislucas",
+            "repo": "iterm-mcp",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OthmaneBlial/term_mcp_deepseek",
+          "description": "Terminal server for DeepSeek.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956374411,
+            "language": "Python",
+            "last_commit": "2025-09-21T12:26:53Z",
+            "owner": "OthmaneBlial",
+            "repo": "term_mcp_deepseek",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maxim-saplin/mcp_safe_local_python_executor",
+          "description": "Safe local Python execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 955932781,
+            "language": "Python",
+            "last_commit": "2025-07-17T10:42:27Z",
+            "owner": "maxim-saplin",
+            "repo": "mcp_safe_local_python_executor",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "description": "Local file/process control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898345892,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T12:12:40Z",
+            "owner": "wonderwhy-er",
+            "repo": "DesktopCommanderMCP",
+            "stars": 9388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "automateyournetwork/pyATS_MCP",
+          "description": "Cisco pyATS network automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960564327,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:03:21Z",
+            "owner": "automateyournetwork",
+            "repo": "pyATS_MCP",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "🖥️ Command Line & Local Ops"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aircodelabs/grasp",
+          "description": "Self-hosted browser agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968886455,
+            "language": "TypeScript",
+            "last_commit": "2025-06-20T12:57:49Z",
+            "owner": "aircodelabs",
+            "repo": "grasp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browserbase/mcp-server-browserbase",
+          "description": "Cloud browser automation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 899184149,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T21:48:14Z",
+            "owner": "browserbase",
+            "repo": "mcp-server-browserbase",
+            "stars": 3409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browsermcp/mcp",
+          "description": "Local Chrome control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956283541,
+            "language": "TypeScript",
+            "last_commit": "2025-04-24T21:49:44Z",
+            "owner": "BrowserMCP",
+            "repo": "mcp",
+            "stars": 7012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automata-Labs-team/MCP-Server-Playwright",
+          "description": "Playwright automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 897203967,
+            "language": "JavaScript",
+            "last_commit": "2025-06-05T21:48:28Z",
+            "owner": "VikashLoomba",
+            "repo": "MCP-Server-Playwright",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blackwhite084/playwright-plus-python-mcp",
+          "description": "Playwright + Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 911932691,
+            "language": "Python",
+            "last_commit": "2025-01-07T06:35:52Z",
+            "owner": "blackwhite084",
+            "repo": "playwright-plus-python-mcp",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/playwright-mcp",
+          "description": "Official Playwright MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 952688112,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T22:46:04Z",
+            "owner": "microsoft",
+            "repo": "playwright-mcp",
+            "stars": 36423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "co-browser/browser-use-mcp-server",
+          "description": "browser-use with SSE transport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 943806192,
+            "language": "Python",
+            "last_commit": "2026-05-20T20:43:30Z",
+            "owner": "kontext-security",
+            "repo": "browser-use-mcp-server",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eyalzh/browser-control-mcp",
+          "description": "Browser control MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956055682,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T18:44:48Z",
+            "owner": "eyalzh",
+            "repo": "browser-control-mcp",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ndthanhdev/mcp-browser-kit",
+          "description": "Browser automation toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 958850369,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T08:18:59Z",
+            "owner": "ndthanhdev",
+            "repo": "mcp-browser-kit",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kimtth/mcp-aoai-web-browsing",
+          "description": "Web browsing MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 902856894,
+            "language": "Python",
+            "last_commit": "2026-07-16T03:07:59Z",
+            "owner": "kimtth",
+            "repo": "mcp-aoai-web-browsing",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scrapeless-ai/scrapeless-mcp-server",
+          "description": "SERP and web data access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 958339532,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T03:22:27Z",
+            "owner": "scrapeless-ai",
+            "repo": "scrapeless-mcp-server",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vostride/agent-qa",
+          "description": "Natural-language web and mobile regression testing through MCP with persistent memory and self-healing execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232322871,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 960
+          }
+        }
+      ],
+      "title": "🌐 Browser Automation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pydantic/pydantic-ai (mcp-run-python)",
+          "description": "Run Python in a sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 818331198,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:16:09Z",
+            "owner": "pydantic",
+            "repo": "pydantic-ai",
+            "stars": 19478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yepcode/mcp-server-js",
+          "description": "Secure JS/Python sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 955424433,
+            "language": "TypeScript",
+            "last_commit": "2026-03-17T09:19:23Z",
+            "owner": "yepcode",
+            "repo": "mcp-server-js",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alfonsograziano/node-code-sandbox-mcp",
+          "description": "Node.js Docker sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 973007786,
+            "language": "TypeScript",
+            "last_commit": "2025-11-24T20:00:40Z",
+            "owner": "alfonsograziano",
+            "repo": "node-code-sandbox-mcp",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ckanthony/openapi-mcp",
+          "description": "Access APIs from OpenAPI specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970972422,
+            "language": "Go",
+            "last_commit": "2026-03-21T07:49:31Z",
+            "owner": "ckanthony",
+            "repo": "openapi-mcp",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "⚙️ Code Execution"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bgauryy/octocode-mcp",
+          "description": "GitHub research + analysis agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 996813130,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T15:18:42Z",
+            "owner": "bgauryy",
+            "repo": "octocode",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oraios/serena",
+          "description": "LSP-based coding agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 953683578,
+            "language": "Python",
+            "last_commit": "2026-08-20T06:51:15Z",
+            "owner": "oraios",
+            "repo": "serena",
+            "stars": 28441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezyang/codemcp",
+          "description": "Simple coding agent MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945281966,
+            "language": "Python",
+            "last_commit": "2025-12-25T02:10:23Z",
+            "owner": "ezyang",
+            "repo": "codemcp",
+            "stars": 1608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wolfe-Jam/claude-faf-mcp",
+          "description": "Persistent project context tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1056826668,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T08:09:06Z",
+            "owner": "Wolfe-Jam",
+            "repo": "claude-faf-mcp",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juehang/vscode-mcp-server",
+          "description": "VS Code workspace tooling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970322277,
+            "language": "TypeScript",
+            "last_commit": "2026-01-07T15:40:49Z",
+            "owner": "juehang",
+            "repo": "vscode-mcp-server",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doggybee/mcp-server-leetcode",
+          "description": "LeetCode problem access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959135330,
+            "language": "TypeScript",
+            "last_commit": "2025-04-02T14:27:05Z",
+            "owner": "doggybee",
+            "repo": "mcp-server-leetcode",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jinzcdev/leetcode-mcp-server",
+          "description": "LeetCode (global/China) access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965242185,
+            "language": "TypeScript",
+            "last_commit": "2026-07-12T12:05:31Z",
+            "owner": "jinzcdev",
+            "repo": "leetcode-mcp-server",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "willibrandon/CursorMCPMonitor",
+          "description": "MCP monitoring for Cursor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 941819211,
+            "language": "C#",
+            "last_commit": "2025-03-12T00:57:16Z",
+            "owner": "willibrandon",
+            "repo": "CursorMCPMonitor",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Necmttn/ax",
+          "description": "Local telemetry and cost analytics for AI coding-agent sessions, tools, and skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232710515,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:54:58Z",
+            "owner": "Necmttn",
+            "repo": "ax",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SKULLFIRE07/cortex-memory",
+          "description": "Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1183324495,
+            "language": "TypeScript",
+            "last_commit": "2026-03-25T22:51:15Z",
+            "owner": "SKULLFIRE07",
+            "repo": "cortex-memory",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claw-army/claude-node",
+          "description": "Python subprocess bridge for Claude Code CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1188538173,
+            "language": "Python",
+            "last_commit": "2026-04-04T00:29:41Z",
+            "owner": "claw-army",
+            "repo": "claude-node",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HendryAvila/Hoofy",
+          "description": "Spec-driven dev companion with persistent memory, adaptive change pipeline, and Clarity Gate. 32 tools, single Go binary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1162612963,
+            "language": "Go",
+            "last_commit": "2026-03-12T18:41:50Z",
+            "owner": "HendryAvila",
+            "repo": "Hoofy",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maxbaluev/accreted-intelligence",
+          "description": "Local-first Work Model MCP server for coding agents: scored memory plus outcome-credited actions through and , with kept on the user's machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1265298473,
+            "language": "Shell",
+            "last_commit": "2026-07-05T18:31:50Z",
+            "owner": "maxbaluev",
+            "repo": "accreted-intelligence",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "🤖 Coding Agents"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "askbudi/roundtable",
+          "description": "Multi-assistant MCP hub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059882384,
+            "language": "Python",
+            "last_commit": "2025-10-06T04:11:43Z",
+            "owner": "askbudi",
+            "repo": "roundtable",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "julien040/anyquery",
+          "description": "SQL over 40+ apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783007462,
+            "language": "Go",
+            "last_commit": "2026-08-16T07:37:47Z",
+            "owner": "julien040",
+            "repo": "anyquery",
+            "stars": 1763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metatool-ai/metatool-app",
+          "description": "MetaMCP with GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 920576726,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T16:50:50Z",
+            "owner": "metatool-ai",
+            "repo": "metamcp",
+            "stars": 2620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mindsdb/mindsdb",
+          "description": "Data unification + MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143328315,
+            "language": "Makefile",
+            "last_commit": "2026-08-21T23:50:38Z",
+            "owner": "mindsdb",
+            "repo": "mindshub",
+            "stars": 39640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glenngillen/mcpmcp-server",
+          "description": "MCP server registry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 971802843,
+            "language": null,
+            "last_commit": "2025-04-24T04:51:41Z",
+            "owner": "glenngillen",
+            "repo": "mcpmcp-server",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wegotdocs/open-mcp",
+          "description": "Turn web APIs into MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956001827,
+            "language": "Shell",
+            "last_commit": "2026-08-24T07:38:30Z",
+            "owner": "boltmcp",
+            "repo": "boltmcp",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PipedreamHQ/pipedream",
+          "description": "2,500+ API integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235468657,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:37:39Z",
+            "owner": "PipedreamHQ",
+            "repo": "pipedream",
+            "stars": 11643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VeriTeknik/pluggedin-mcp-proxy",
+          "description": "Proxy + discovery layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961950908,
+            "language": "TypeScript",
+            "last_commit": "2026-05-10T20:39:02Z",
+            "owner": "VeriTeknik",
+            "repo": "pluggedin-mcp-proxy",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waystation-ai/mcp",
+          "description": "Connect MCP hosts to apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940157592,
+            "language": "JavaScript",
+            "last_commit": "2025-09-10T06:42:53Z",
+            "owner": "waystation-ai",
+            "repo": "mcp",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sxhxliang/mcp-access-point",
+          "description": "One-click MCP wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961469209,
+            "language": "Rust",
+            "last_commit": "2026-03-11T03:03:01Z",
+            "owner": "sxhxliang",
+            "repo": "mcp-access-point",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Find MCP",
+          "description": "Search 17,000+ MCP servers from the official MCP registry, remote (Streamable HTTP, catalog.agentage.io/mcp) or stdio (npx @agentage/find-mcp), no auth needed for search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1300999234,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T00:06:40Z",
+            "owner": "agentage",
+            "repo": "find-mcp",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "🔗 Aggregators"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "akuity/argocd-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967155121,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T15:32:49Z",
+                "owner": "argoproj-labs",
+                "repo": "mcp-for-argocd",
+                "stars": 557
+              }
+            }
+          ],
+          "description": "GitOps deployment management via AI.",
+          "node_type": "group",
+          "title": "Argo CD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "jenkinsci/mcp-server-plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991268311,
+                "language": "Java",
+                "last_commit": "2026-08-24T11:59:24Z",
+                "owner": "jenkinsci",
+                "repo": "mcp-server-plugin",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jenkins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "stefanoamorelli/codemagic-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 976205247,
+                "language": "Python",
+                "last_commit": "2026-05-28T14:22:59Z",
+                "owner": "stefanoamorelli",
+                "repo": "codemagic-mcp",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Codemagic (Mobile CI/CD)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "ghost-in-the-droid/android-agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1204406252,
+                "language": "Python",
+                "last_commit": "2026-08-13T22:43:42Z",
+                "owner": "ghost-in-the-droid",
+                "repo": "android-agent",
+                "stars": 318
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ghost in the Droid (Android/iOS Device Control)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HarperZ9/telos",
+              "description": "Local-first MCP/CLI workbench for inspectable DevOps agent workflows: workspace maps, CI triage, action receipts, context packs, and operator verification doctors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1279698454,
+                "language": "Python",
+                "last_commit": "2026-08-03T03:19:11Z",
+                "owner": "HarperZ9",
+                "repo": "telos",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SBDI/mcp-devps-hub",
+              "description": "End-to-end DevOps visibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960032575,
+                "language": "Python",
+                "last_commit": "2025-04-03T19:57:08Z",
+                "owner": "SBDI",
+                "repo": "mcp-devps-hub",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gofireflyio/firefly-mcp",
+              "description": "Cloud resource discovery and codification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954695818,
+                "language": "TypeScript",
+                "last_commit": "2026-04-13T07:22:40Z",
+                "owner": "gofireflyio",
+                "repo": "firefly-mcp",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DevOps Visibility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Acid-base/FastMCP-Proper",
+              "description": "MCP server with CI/CD tooling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 972458063,
+                "language": "Python",
+                "last_commit": "2025-04-25T05:47:07Z",
+                "owner": "Acid-base",
+                "repo": "FastMCP-Proper",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lobehub/mcp-hello-world",
+              "description": "CI/CD test server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969606700,
+                "language": "JavaScript",
+                "last_commit": "2025-06-20T06:33:30Z",
+                "owner": "lobehub",
+                "repo": "mcp-hello-world",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "joeyycli/constitution-lint-action",
+              "description": "GitHub Action + MCP server that lints CLAUDE.md-style agent constitution files for missing operational guardrails (spend limits, injection defense, escalation paths, secrets rules).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1304873167,
+                "language": "Python",
+                "last_commit": "2026-07-30T22:06:37Z",
+                "owner": "joeyycli",
+                "repo": "constitution-lint-action",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI/CD Helpers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "arvindand/maven-tools-mcp",
+              "description": "Maven and build tooling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997649358,
+                "language": "Java",
+                "last_commit": "2026-08-24T10:47:51Z",
+                "owner": "arvindand",
+                "repo": "maven-tools-mcp",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nowork-studio/toprank",
+              "description": "NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1193374549,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T06:29:05Z",
+                "owner": "nowork-studio",
+                "repo": "notfair-plugin",
+                "stars": 3397
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Build Tools"
+        }
+      ],
+      "title": "🚀 CI/CD"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "awslabs/mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952238700,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:21:17Z",
+                "owner": "awslabs",
+                "repo": "mcp",
+                "stars": 9636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alexei-led/aws-mcp-server",
+              "description": "AWS CLI-based MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951314828,
+                "language": "Python",
+                "last_commit": "2026-02-27T14:42:40Z",
+                "owner": "alexei-led",
+                "repo": "cloud-mcp-server",
+                "stars": 185
+              }
+            }
+          ],
+          "description": "AWS provides a collection of MCP servers for their services.\nCommunity options",
+          "node_type": "group",
+          "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hardik-id/azure-resource-graph-mcp-server",
+              "description": "Azure Resource Graph queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959506471,
+                "language": "TypeScript",
+                "last_commit": "2025-05-06T18:41:57Z",
+                "owner": "hardik-id",
+                "repo": "azure-resource-graph-mcp-server",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "erikhoward/adls-mcp-server",
+              "description": "Azure Data Lake Storage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 960063905,
+                "language": "Python",
+                "last_commit": "2025-05-31T01:46:12Z",
+                "owner": "erikhoward",
+                "repo": "adls-mcp-server",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Azure"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "cloudflare/mcp-server-cloudflare",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 895268756,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T09:19:59Z",
+                "owner": "cloudflare",
+                "repo": "mcp-server-cloudflare",
+                "stars": 4105
+              }
+            }
+          ],
+          "description": "Comprehensive coverage of Cloudflare's platform.",
+          "node_type": "group",
+          "title": "Cloudflare"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "aliyun/alibaba-cloud-ops-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967873415,
+                "language": "Python",
+                "last_commit": "2026-03-16T15:21:52Z",
+                "owner": "aliyun",
+                "repo": "alibaba-cloud-ops-mcp-server",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Also available",
+              "description": "📦 ACK (Kubernetes), DataWorks, DMS, Function Compute.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1059280537,
+                "language": "Python",
+                "last_commit": "2026-07-31T09:30:35Z",
+                "owner": "aliyun",
+                "repo": "alibabacloud-ack-mcp-server",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alibaba Cloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bright8192/esxi-mcp-server",
+              "description": "VMware ESXi/vCenter management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947797382,
+                "language": "Python",
+                "last_commit": "2025-07-01T09:22:52Z",
+                "owner": "bright8192",
+                "repo": "esxi-mcp-server",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thunderboltsid/mcp-nutanix",
+              "description": "Nutanix Prism Central integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956134095,
+                "language": "Go",
+                "last_commit": "2026-01-29T09:57:21Z",
+                "owner": "thunderboltsid",
+                "repo": "mcp-nutanix",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Platforms"
+        }
+      ],
+      "title": "☁️ Cloud Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "grafana/mcp-grafana",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 907869862,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:17:34Z",
+                "owner": "grafana",
+                "repo": "mcp-grafana",
+                "stars": 3383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Related",
+              "description": "📦 Loki MCP, Tempo MCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 963989901,
+                "language": "Go",
+                "last_commit": "2026-08-22T23:08:36Z",
+                "owner": "grafana",
+                "repo": "loki-mcp",
+                "stars": 166
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Grafana"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "TANTIOPE/datadog-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1116861729,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T01:59:58Z",
+                "owner": "TANTIOPE",
+                "repo": "datadog-mcp-server",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datadog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pab1it0/prometheus-mcp-server",
+              "description": "🐍 Python ⭐ 177 stars, well-documented.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951416232,
+                "language": "Python",
+                "last_commit": "2026-08-05T17:30:03Z",
+                "owner": "pab1it0",
+                "repo": "prometheus-mcp-server",
+                "stars": 513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yshngg/prometheus-mcp-server",
+              "description": "🏎️ Go ✅ 100% Prometheus API compatibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 964739229,
+                "language": "Go",
+                "last_commit": "2026-08-23T16:03:19Z",
+                "owner": "yshngg",
+                "repo": "prometheus-mcp-server",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "idanfishman/prometheus-mcp",
+              "description": "📇 Node.js 📡 stdio + HTTP transports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1004185555,
+                "language": "TypeScript",
+                "last_commit": "2026-02-09T01:58:49Z",
+                "owner": "idanfishman",
+                "repo": "prometheus-mcp",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "etruong42/prometheus-mcp",
+              "description": "🐍 Python Community implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967127362,
+                "language": "Python",
+                "last_commit": "2025-04-24T12:18:11Z",
+                "owner": "etruong42",
+                "repo": "prometheus-mcp",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CaesarYangs/prometheus_mcp_server",
+              "description": "🐍 Python Prometheus MCP server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899426240,
+                "language": "Python",
+                "last_commit": "2025-04-05T06:16:27Z",
+                "owner": "CaesarYangs",
+                "repo": "prometheus_mcp_server",
+                "stars": 34
+              }
+            }
+          ],
+          "description": "Several community implementations available.\nAWS also provides a Prometheus MCP Server for Amazon Managed Prometheus with SigV4 auth.",
+          "node_type": "group",
+          "title": "Prometheus"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "VictoriaMetrics-Community/mcp-victoriametrics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 980251556,
+                "language": "Go",
+                "last_commit": "2026-08-23T08:12:35Z",
+                "owner": "VictoriaMetrics",
+                "repo": "mcp-victoriametrics",
+                "stars": 220
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VictoriaMetrics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "kaznak/alertmanager-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946253738,
+                "language": "TypeScript",
+                "last_commit": "2025-03-28T22:06:41Z",
+                "owner": "kaznak",
+                "repo": "alertmanager-mcp",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alertmanager"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dynatrace-oss/dynatrace-mcp",
+              "description": "Dynatrace monitoring integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 971357826,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:26:00Z",
+                "owner": "dynatrace-oss",
+                "repo": "dynatrace-mcp",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "last9/last9-mcp-server",
+              "description": "Last9 observability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956279002,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:45:25Z",
+                "owner": "last9",
+                "repo": "last9-mcp-server",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uptrack-App/uptrack-mcp",
+              "description": "Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197557891,
+                "language": "JavaScript",
+                "last_commit": "2026-05-06T13:56:45Z",
+                "owner": "Uptrack-App",
+                "repo": "uptrack-mcp",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "APM & Monitoring"
+        }
+      ],
+      "title": "📊 Observability"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "semgrep/mcp",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 950213855,
+                "language": "Python",
+                "last_commit": "2025-10-28T22:32:31Z",
+                "owner": "semgrep",
+                "repo": "mcp",
+                "stars": 684
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Semgrep"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "palisadeemail/palisade-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1334283757,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T20:21:10Z",
+                "owner": "palisadeemail",
+                "repo": "palisade-mcp",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Email-authentication security and remediation for domains.",
+          "node_type": "group",
+          "title": "Palisade"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zyx77550/sparda",
+              "description": "Proof-Carrying Code and deterministic security gate for AI agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1270615052,
+                "language": "JavaScript",
+                "last_commit": "2026-07-30T05:36:59Z",
+                "owner": "zyx77550",
+                "repo": "sparda",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LaurieWired/GhidraMCP",
+              "description": "Ghidra reverse engineering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953335676,
+                "language": "Java",
+                "last_commit": "2025-06-23T04:18:18Z",
+                "owner": "LaurieWired",
+                "repo": "GhidraMCP",
+                "stars": 9852
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13bm/GhidraMCP",
+              "description": "Ghidra analysis tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954022378,
+                "language": "Java",
+                "last_commit": "2026-08-19T08:21:30Z",
+                "owner": "13bm",
+                "repo": "GhidraMCP",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BurtTheCoder/mcp-shodan",
+              "description": "Shodan search + CVE data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 902513820,
+                "language": "TypeScript",
+                "last_commit": "2026-03-31T18:08:46Z",
+                "owner": "w0h1v",
+                "repo": "mcp-shodan",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BurtTheCoder/mcp-virustotal",
+              "description": "VirusTotal scanning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 902629770,
+                "language": "TypeScript",
+                "last_commit": "2026-05-24T03:00:04Z",
+                "owner": "w0h1v",
+                "repo": "mcp-virustotal",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fr0gger/MCP_Security",
+              "description": "ORKL threat intelligence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894937899,
+                "language": "Python",
+                "last_commit": "2025-01-22T23:09:11Z",
+                "owner": "fr0gger",
+                "repo": "MCP_Security",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "girste/mcp-cybersec-watchdog",
+              "description": "Linux security audit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1123753154,
+                "language": "Go",
+                "last_commit": "2026-02-07T18:04:49Z",
+                "owner": "girste",
+                "repo": "CHIHUAUDIT",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qianniuspace/mcp-security-audit",
+              "description": "npm dependency audits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936158314,
+                "language": "TypeScript",
+                "last_commit": "2025-07-18T09:03:21Z",
+                "owner": "qianniuspace",
+                "repo": "mcp-security-audit",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rad-security/mcp-server",
+              "description": "Kubernetes security insights.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944570781,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T14:41:43Z",
+                "owner": "rad-security",
+                "repo": "mcp-server",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "roadwy/cve-search_mcp",
+              "description": "CVE-Search API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947223100,
+                "language": "Python",
+                "last_commit": "2025-07-26T14:17:29Z",
+                "owner": "roadwy",
+                "repo": "cve-search_mcp",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "operantlabs/operant-mcp",
+              "description": "51 security testing tools for pentesting, vulnerability scanning, and security auditing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1188556521,
+                "language": "TypeScript",
+                "last_commit": "2026-04-01T03:09:17Z",
+                "owner": "operantlabs",
+                "repo": "operant-mcp",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "securityfortech/secops-mcp",
+              "description": "Security testing toolbox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956481842,
+                "language": "Python",
+                "last_commit": "2025-09-17T14:57:39Z",
+                "owner": "securityfortech",
+                "repo": "secops-mcp",
+                "stars": 207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "slouchd/cyberchef-api-mcp-server",
+              "description": "CyberChef API access.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967370398,
+                "language": "Python",
+                "last_commit": "2026-04-03T13:00:00Z",
+                "owner": "slouchd",
+                "repo": "cyberchef-api-mcp-server",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nickpending/mcp-recon",
+              "description": "Recon + domain analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958933817,
+                "language": "Go",
+                "last_commit": "2025-04-22T20:38:25Z",
+                "owner": "nickpending",
+                "repo": "mcp-recon",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agnuxo1/EnigmAgent",
+              "description": "AES-256-GCM + Argon2id encrypted vault. Resolves secrets so API keys never appear in prompts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1214957964,
+                "language": "Python",
+                "last_commit": "2026-06-05T10:11:30Z",
+                "owner": "Agnuxo1",
+                "repo": "EnigmAgent",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ezequiellich44-cmd/MandateGuard",
+              "description": "Deterministic payment policy enforcement for AI agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 payment mandates with zero LLM in the decision path. Tamper-evident SHA-256 chained audit ledger; official MCP server on the Model Context Protocol Registry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1339187684,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:30:00Z",
+                "owner": "ezequiellich44-cmd",
+                "repo": "MandateGuard",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Security Servers"
+        }
+      ],
+      "title": "🔒 Security"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "atlassian/atlassian-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1030580992,
+                "language": "JavaScript",
+                "last_commit": "2026-07-27T23:42:23Z",
+                "owner": "atlassian",
+                "repo": "atlassian-mcp-server",
+                "stars": 981
+              }
+            }
+          ],
+          "description": "Community alternative with Server/Data Center support: sooperset/mcp-atlassian.",
+          "node_type": "group",
+          "title": "Atlassian (Jira + Confluence)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "nguyenvanduocit/jira-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954698875,
+                "language": "Go",
+                "last_commit": "2026-04-18T10:47:29Z",
+                "owner": "nguyenvanduocit",
+                "repo": "jira-mcp",
+                "stars": 96
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jira (Community)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "MervinPraison/praisonai-mcp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1119194574,
+                "language": "Python",
+                "last_commit": "2026-01-13T13:58:19Z",
+                "owner": "MervinPraison",
+                "repo": "praisonai-mcp",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Project Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "effytech/freshdesk_mcp",
+              "description": "Freshdesk integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951829374,
+                "language": "Python",
+                "last_commit": "2026-07-30T12:27:17Z",
+                "owner": "effytech",
+                "repo": "freshdesk_mcp",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dbsanfte/topdesk-mcp",
+              "description": "TOPdesk integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 987132422,
+                "language": "Python",
+                "last_commit": "2025-07-02T15:15:31Z",
+                "owner": "dbsanfte",
+                "repo": "topdesk-mcp",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Service Desks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repo",
+              "description": "makenotion/notion-mcp-server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946169991,
+                "language": "TypeScript",
+                "last_commit": "2026-07-25T16:20:03Z",
+                "owner": "makenotion",
+                "repo": "notion-mcp-server",
+                "stars": 4601
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notion"
+        }
+      ],
+      "title": "📝 Collaboration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "awesome",
           "description": null,
@@ -15,7 +2568,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499343
+            "stars": 499520
           }
         },
         {
@@ -30,7 +2583,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92725
+            "stars": 92740
           }
         },
         {
@@ -45,7 +2598,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89812
+            "stars": 89830
           }
         },
         {
@@ -60,7 +2613,7 @@
             "last_commit": "2026-08-22T20:10:01Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27349
+            "stars": 27357
           }
         },
         {
@@ -75,7 +2628,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6552
+            "stars": 6553
           }
         },
         {
@@ -98,7 +2651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:06:58.771Z",
+    "last_updated": "2026-08-24T14:39:53.283Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
     "original_repository_id": 1113881736,
     "original_repository_sha": "b835e5c1b81cd0185dc50d3297243a7618e1a348",
