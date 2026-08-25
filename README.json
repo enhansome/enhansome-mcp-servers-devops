@@ -7,8 +7,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "github/github-mcp-server",
+              "title": "github/github-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T02:59:57Z",
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32478
+                "stars": 32480
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89832
+                "stars": 89834
               }
             }
           ],
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89832
+                "stars": 89834
               }
             }
           ],
@@ -191,8 +191,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "hashicorp/terraform-mcp-server",
+              "title": "hashicorp/terraform-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,7 +201,7 @@
                 "last_commit": "2026-08-24T14:43:55Z",
                 "owner": "hashicorp",
                 "repo": "terraform-mcp-server",
-                "stars": 1511
+                "stars": 1512
               }
             },
             {
@@ -303,8 +303,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "hashicorp/vault-mcp-server",
+              "title": "hashicorp/vault-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -313,7 +313,7 @@
                 "last_commit": "2026-08-20T04:04:55Z",
                 "owner": "hashicorp",
                 "repo": "vault-mcp-server",
-                "stars": 58
+                "stars": 59
               }
             }
           ],
@@ -325,8 +325,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "opentofu/opentofu-mcp-server",
+              "title": "opentofu/opentofu-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,8 +347,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "stakpak/mcp",
+              "title": "stakpak/mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -377,8 +377,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Repo",
-                  "description": "containers/kubernetes-mcp-server",
+                  "title": "containers/kubernetes-mcp-server",
+                  "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -387,7 +387,7 @@
                     "last_commit": "2026-08-24T10:55:33Z",
                     "owner": "containers",
                     "repo": "kubernetes-mcp-server",
-                    "stars": 2016
+                    "stars": 2018
                   }
                 }
               ],
@@ -399,8 +399,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Repo",
-                  "description": "Azure/mcp-kubernetes",
+                  "title": "Azure/mcp-kubernetes",
+                  "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -421,8 +421,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Repo",
-                  "description": "Flux159/mcp-server-kubernetes",
+                  "title": "Flux159/mcp-server-kubernetes",
+                  "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -443,8 +443,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Repo",
-                  "description": "alexei-led/k8s-mcp-server",
+                  "title": "alexei-led/k8s-mcp-server",
+                  "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -505,7 +505,7 @@
                     "last_commit": "2026-08-24T10:55:33Z",
                     "owner": "containers",
                     "repo": "kubernetes-mcp-server",
-                    "stars": 2016
+                    "stars": 2018
                   }
                 },
                 {
@@ -577,7 +577,7 @@
                     "archived": false,
                     "id": 1135473716,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T03:18:10Z",
+                    "last_commit": "2026-08-25T06:04:57Z",
                     "owner": "kubestellar",
                     "repo": "console",
                     "stars": 127
@@ -597,8 +597,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "rrmistry/tilt-mcp",
+              "title": "rrmistry/tilt-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -619,8 +619,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "kocierik/mcp-nomad",
+              "title": "kocierik/mcp-nomad",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,8 +641,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "docker/hub-mcp",
+              "title": "docker/hub-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -651,7 +651,7 @@
                 "last_commit": "2026-08-20T09:43:08Z",
                 "owner": "docker",
                 "repo": "hub-mcp",
-                "stars": 161
+                "stars": 162
               }
             }
           ],
@@ -663,14 +663,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "solomon2773/nora",
+              "title": "solomon2773/nora",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1186006472,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:47:04Z",
+                "last_commit": "2026-08-25T04:30:31Z",
                 "owner": "solomon2773",
                 "repo": "nora",
                 "stars": 47
@@ -685,8 +685,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "portainer/portainer-mcp",
+              "title": "portainer/portainer-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             "last_commit": "2026-08-21T12:12:40Z",
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9387
+            "stars": 9388
           }
         },
         {
@@ -892,7 +892,7 @@
             "last_commit": "2025-04-24T21:49:44Z",
             "owner": "BrowserMCP",
             "repo": "mcp",
-            "stars": 7013
+            "stars": 7014
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-08-21T22:46:04Z",
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36436
+            "stars": 36440
           }
         },
         {
@@ -1045,10 +1045,10 @@
             "archived": false,
             "id": 818331198,
             "language": "Python",
-            "last_commit": "2026-08-25T03:27:58Z",
+            "last_commit": "2026-08-25T06:26:08Z",
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 19483
+            "stars": 19487
           }
         },
         {
@@ -1114,7 +1114,7 @@
             "last_commit": "2026-08-18T15:18:42Z",
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 920
+            "stars": 921
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2026-08-20T06:51:15Z",
             "owner": "oraios",
             "repo": "serena",
-            "stars": 28461
+            "stars": 28468
           }
         },
         {
@@ -1204,7 +1204,7 @@
             "last_commit": "2026-07-12T12:05:31Z",
             "owner": "jinzcdev",
             "repo": "leetcode-mcp-server",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -1231,7 +1231,7 @@
             "archived": false,
             "id": 1232710515,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:59:31Z",
+            "last_commit": "2026-08-25T04:09:58Z",
             "owner": "Necmttn",
             "repo": "ax",
             "stars": 101
@@ -1402,10 +1402,10 @@
             "archived": false,
             "id": 235468657,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T21:18:28Z",
+            "last_commit": "2026-08-25T06:29:44Z",
             "owner": "PipedreamHQ",
             "repo": "pipedream",
-            "stars": 11648
+            "stars": 11647
           }
         },
         {
@@ -1478,8 +1478,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "akuity/argocd-mcp",
+              "title": "akuity/argocd-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1500,8 +1500,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "jenkinsci/mcp-server-plugin",
+              "title": "jenkinsci/mcp-server-plugin",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1522,8 +1522,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "stefanoamorelli/codemagic-mcp",
+              "title": "stefanoamorelli/codemagic-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1544,8 +1544,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "ghost-in-the-droid/android-agent",
+              "title": "ghost-in-the-droid/android-agent",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1692,10 +1692,10 @@
                 "archived": false,
                 "id": 1193374549,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T06:29:05Z",
+                "last_commit": "2026-08-25T04:59:51Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3399
+                "stars": 3401
               }
             }
           ],
@@ -1713,8 +1713,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "awslabs/mcp",
+              "title": "awslabs/mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1787,8 +1787,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "cloudflare/mcp-server-cloudflare",
+              "title": "cloudflare/mcp-server-cloudflare",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1797,7 +1797,7 @@
                 "last_commit": "2026-08-24T09:19:59Z",
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4107
+                "stars": 4108
               }
             }
           ],
@@ -1809,8 +1809,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "aliyun/alibaba-cloud-ops-mcp-server",
+              "title": "aliyun/alibaba-cloud-ops-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1889,14 +1889,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "grafana/mcp-grafana",
+              "title": "grafana/mcp-grafana",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 907869862,
                 "language": "Go",
-                "last_commit": "2026-08-24T23:15:44Z",
+                "last_commit": "2026-08-25T05:16:09Z",
                 "owner": "grafana",
                 "repo": "mcp-grafana",
                 "stars": 3385
@@ -1926,8 +1926,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "TANTIOPE/datadog-mcp-server",
+              "title": "TANTIOPE/datadog-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,8 +2030,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "VictoriaMetrics-Community/mcp-victoriametrics",
+              "title": "VictoriaMetrics-Community/mcp-victoriametrics",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2052,8 +2052,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "kaznak/alertmanager-mcp",
+              "title": "kaznak/alertmanager-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2132,8 +2132,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "semgrep/mcp",
+              "title": "semgrep/mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2154,8 +2154,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "palisadeemail/palisade-mcp",
+              "title": "palisadeemail/palisade-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2201,7 +2201,7 @@
                 "last_commit": "2025-06-23T04:18:18Z",
                 "owner": "LaurieWired",
                 "repo": "GhidraMCP",
-                "stars": 9858
+                "stars": 9859
               }
             },
             {
@@ -2429,8 +2429,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "atlassian/atlassian-mcp-server",
+              "title": "atlassian/atlassian-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2451,8 +2451,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "nguyenvanduocit/jira-mcp",
+              "title": "nguyenvanduocit/jira-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2473,8 +2473,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "MervinPraison/praisonai-mcp",
+              "title": "MervinPraison/praisonai-mcp",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2532,8 +2532,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Repo",
-              "description": "makenotion/notion-mcp-server",
+              "title": "makenotion/notion-mcp-server",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2542,7 +2542,7 @@
                 "last_commit": "2026-07-25T16:20:03Z",
                 "owner": "makenotion",
                 "repo": "notion-mcp-server",
-                "stars": 4602
+                "stars": 4603
               }
             }
           ],
@@ -2568,7 +2568,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499667
+            "stars": 499707
           }
         },
         {
@@ -2583,7 +2583,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92759
+            "stars": 92764
           }
         },
         {
@@ -2598,7 +2598,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89832
+            "stars": 89834
           }
         },
         {
@@ -2613,7 +2613,7 @@
             "last_commit": "2026-08-25T03:15:38Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27362
+            "stars": 27367
           }
         },
         {
@@ -2628,7 +2628,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6553
+            "stars": 6554
           }
         },
         {
@@ -2651,7 +2651,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:00:28.975Z",
+    "last_updated": "2026-08-25T06:32:53.730Z",
     "original_repository": "WagnerAgent/awesome-mcp-servers-devops",
     "original_repository_id": 1113881736,
     "original_repository_sha": "b835e5c1b81cd0185dc50d3297243a7618e1a348",
