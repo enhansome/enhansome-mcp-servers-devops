@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub's official MCP Server",
+                "homepage": null,
                 "id": 942771284,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:17:47Z",
+                "open_issues": 333,
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32580
+                "stars": 32587,
+                "topics": [
+                  "github",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "github-enterprise-mcp",
+                "homepage": null,
                 "id": 953844812,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-09-14T03:39:33Z",
+                "open_issues": 1,
                 "owner": "ddukbg",
                 "repo": "github-enterprise-mcp",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -44,12 +58,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server that helps read GitHub repository structure and important files.",
+                "homepage": null,
                 "id": 903643338,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-26T10:32:13Z",
+                "open_issues": 11,
                 "owner": "adhikasp",
                 "repo": "mcp-git-ingest",
-                "stars": 313
+                "stars": 312,
+                "topics": [
+                  "git",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -67,12 +91,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interact seamlessly with GitLab repositories to manage merge requests and issues. Fetch details, add comments, and streamline your code review process with ease.",
+                "homepage": null,
                 "id": 954259665,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-27T23:43:52Z",
+                "open_issues": 4,
                 "owner": "kopfrechner",
                 "repo": "gitlab-mr-mcp",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "gitlab",
+                  "mcp",
+                  "mcp-server",
+                  "merge-requests"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -83,12 +117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:36:45Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89931
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -106,12 +145,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for Azure DevOps",
+                "homepage": null,
                 "id": 940300511,
                 "language": "TypeScript",
-                "last_commit": "2026-07-07T13:58:26Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:37:31Z",
+                "open_issues": 39,
                 "owner": "Tiberriver256",
                 "repo": "mcp-server-azure-devops",
-                "stars": 383
+                "stars": 383,
+                "topics": [
+                  "ai",
+                  "azure-devops",
+                  "claude",
+                  "copilot",
+                  "cursor",
+                  "mcp",
+                  "mcp-server",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -122,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP Server for Cline to Access Azure devops",
+                "homepage": null,
                 "id": 921367791,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T15:52:09Z",
+                "open_issues": 1,
                 "owner": "stefanskiasan",
                 "repo": "azure-devops-mcp-server",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -138,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server enabling AI assistants to interact with Azure DevOps services via Python SDK.",
+                "homepage": null,
                 "id": 948085438,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-29T22:05:10Z",
+                "open_issues": 15,
                 "owner": "Vortiago",
                 "repo": "mcp-azure-devops",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -154,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure DevOps MCP Server",
+                "homepage": null,
                 "id": 946945816,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-24T12:08:40Z",
+                "open_issues": 2,
                 "owner": "aaronsb",
                 "repo": "ado-mcp",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -177,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:36:45Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89931
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -206,12 +279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+                "homepage": null,
                 "id": 969282615,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:15:59Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-28T23:26:14Z",
+                "open_issues": 45,
                 "owner": "hashicorp",
                 "repo": "terraform-mcp-server",
-                "stars": 1513
+                "stars": 1513,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -222,12 +300,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MCP server for working with HCP Terraform",
+                "homepage": null,
                 "id": 961239100,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-06T11:59:29Z",
+                "open_issues": 0,
                 "owner": "dulltz",
                 "repo": "mcp-server-hcp-terraform",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -238,12 +321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for managing infrastructure as code using Terraform",
+                "homepage": null,
                 "id": 962276663,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-08T04:10:50Z",
+                "open_issues": 0,
                 "owner": "guilhermeyoshida",
                 "repo": "mcp-terraform-assistant",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -254,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project provides an MCP (Model Context Protocol) server that exposes Terraform infrastructure-as-code operations through natural language. It enables LLMs to execute Terraform commands and retrieve information about infrastructure without requiring specific command syntax knowledge.",
+                "homepage": null,
                 "id": 957339275,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-31T07:20:36Z",
+                "open_issues": 0,
                 "owner": "jashkahar",
                 "repo": "Terraform-MCP-Server",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -270,12 +363,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌍 Terraform Model Context Protocol (MCP) Tool - An experimental CLI tool that enables AI assistants to manage and operate Terraform environments. Supports reading Terraform configurations, analyzing plans, applying configurations, and managing state with Claude Desktop integration. ⚡️",
+                "homepage": "https://crates.io/crates/tfmcp",
                 "id": 945036417,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T13:25:07Z",
+                "open_issues": 3,
                 "owner": "nwiizo",
                 "repo": "tfmcp",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "mcp",
+                  "mcp-server",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -286,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server that integrates AI assistants with the Terraform Cloud API, allowing you to manage your infrastructure through natural conversation",
+                "homepage": null,
                 "id": 947580034,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-02T07:43:19Z",
+                "open_issues": 3,
                 "owner": "severity1",
                 "repo": "terraform-cloud-mcp",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -302,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server to run terraform operations locally",
+                "homepage": null,
                 "id": 960217494,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-04-04T03:59:36Z",
+                "open_issues": 0,
                 "owner": "westonplatter",
                 "repo": "mcp-terraform-python",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -325,12 +437,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1005167502,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-27T07:21:31Z",
+                "open_issues": 21,
                 "owner": "hashicorp",
                 "repo": "vault-mcp-server",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "doormat-managed"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -348,12 +467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTofu MCP Server for accessing the OpenTofu Registry",
+                "homepage": null,
                 "id": 988291134,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-15T12:43:06Z",
+                "open_issues": 0,
                 "owner": "opentofu",
                 "repo": "opentofu-mcp-server",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -371,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight MCP server to give you access to the Stakpak API.",
+                "homepage": null,
                 "id": 943919055,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-04T12:40:36Z",
+                "open_issues": 1,
                 "owner": "stakpak",
                 "repo": "mcp",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -402,12 +531,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+                    "homepage": null,
                     "id": 930678258,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T05:32:13Z",
+                    "open_issues": 92,
                     "owner": "containers",
                     "repo": "kubernetes-mcp-server",
-                    "stars": 2036
+                    "stars": 2037,
+                    "topics": [
+                      "containers",
+                      "context",
+                      "kubernetes",
+                      "kubernetes-mcp",
+                      "mcp",
+                      "model",
+                      "modelcontextprotocol",
+                      "openshift",
+                      "protocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 }
@@ -425,12 +569,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Model Context Protocol (MCP) server that enables AI assistants to interact with Kubernetes clusters. It serves as a bridge between AI tools (like Claude, Cursor, and GitHub Copilot) and Kubernetes",
+                    "homepage": null,
                     "id": 972377559,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T22:43:45Z",
+                    "open_issues": 9,
                     "owner": "Azure",
                     "repo": "mcp-kubernetes",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": [
+                      "kubernetes",
+                      "mcp-server",
+                      "model-context-protocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 }
@@ -448,12 +601,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MCP Server for kubernetes management commands",
+                    "homepage": "https://www.npmjs.com/package/mcp-server-kubernetes",
                     "id": 900130551,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-08T17:15:37Z",
+                    "open_issues": 6,
                     "owner": "Flux159",
                     "repo": "mcp-server-kubernetes",
-                    "stars": 1577
+                    "stars": 1576,
+                    "topics": [
+                      "infrastructure",
+                      "kubernetes",
+                      "mcp",
+                      "server"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 }
@@ -471,12 +634,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "K8s-mcp-server is a Model Context Protocol (MCP) server that enables AI assistants like Claude to securely execute Kubernetes commands. It provides a bridge between language models and essential Kubernetes CLI tools including kubectl, helm, istioctl, and argocd, allowing AI systems to assist with cluster management, troubleshooting, and deployments",
+                    "homepage": null,
                     "id": 956054596,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-27T15:41:55Z",
+                    "open_issues": 2,
                     "owner": "alexei-led",
                     "repo": "k8s-mcp-server",
-                    "stars": 213
+                    "stars": 213,
+                    "topics": [
+                      "ai-assistant",
+                      "argocd",
+                      "claude",
+                      "devops",
+                      "docker",
+                      "helm",
+                      "istioctl",
+                      "k8s",
+                      "kubectl",
+                      "kubernetes",
+                      "mcp",
+                      "mcp-server",
+                      "modelcontextprotocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 }
@@ -494,12 +676,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Published in CNCF Landscape: A MCP server for Kubernetes.",
+                    "homepage": "https://www.npmjs.com/package/kubectl-mcp-server",
                     "id": 953587943,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-08T22:37:48Z",
+                    "open_issues": 7,
                     "owner": "rohitg00",
                     "repo": "kubectl-mcp-server",
-                    "stars": 956
+                    "stars": 956,
+                    "topics": [
+                      "ai",
+                      "deployment",
+                      "devops",
+                      "genai",
+                      "kubernetes",
+                      "kubernetes-cluster",
+                      "kubernetes-tools",
+                      "llms",
+                      "mcp",
+                      "mcp-server",
+                      "npm",
+                      "pypi"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 },
@@ -510,12 +710,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MCP Server (STDIO) for kubectl CLI operations",
+                    "homepage": null,
                     "id": 1022965325,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-06T06:50:22Z",
+                    "open_issues": 1,
                     "owner": "aadarshjain",
                     "repo": "kubectl-mcp-server",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 },
@@ -526,12 +731,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Model Context Protocol (MCP) server for Kubernetes and OpenShift",
+                    "homepage": null,
                     "id": 930678258,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T05:32:13Z",
+                    "open_issues": 92,
                     "owner": "containers",
                     "repo": "kubernetes-mcp-server",
-                    "stars": 2036
+                    "stars": 2037,
+                    "topics": [
+                      "containers",
+                      "context",
+                      "kubernetes",
+                      "kubernetes-mcp",
+                      "mcp",
+                      "model",
+                      "modelcontextprotocol",
+                      "openshift",
+                      "protocol"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 },
@@ -542,12 +762,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MCP server connecting to Kubernetes",
+                    "homepage": "https://www.npmjs.com/package/@strowk/mcp-k8s",
                     "id": 896738164,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2025-12-22T20:12:06Z",
+                    "open_issues": 11,
                     "owner": "strowk",
                     "repo": "mcp-k8s-go",
-                    "stars": 386
+                    "stars": 386,
+                    "topics": [
+                      "kubernetes",
+                      "mcp",
+                      "server"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 },
@@ -558,12 +787,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。",
+                    "homepage": "https://github.com/weibaohui/k8m",
                     "id": 870957129,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T16:08:01Z",
+                    "open_issues": 25,
                     "owner": "weibaohui",
                     "repo": "k8m",
-                    "stars": 875
+                    "stars": 875,
+                    "topics": [
+                      "2fa",
+                      "ai",
+                      "apigateway",
+                      "chatgpt",
+                      "dashboard",
+                      "k8s",
+                      "k8s-gpt",
+                      "mcp",
+                      "ollama",
+                      "openai",
+                      "openkruise"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 },
@@ -574,12 +820,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "kom 是一个用于 Kubernetes 操作的工具，SDK级的kubectl、client-go的使用封装。并且支持作为管理k8s 的 MCP server。 它提供了一系列功能来管理 Kubernetes 资源，包括创建、更新、删除和获取资源，甚至使用SQL查询k8s资源。这个项目支持多种 Kubernetes 资源类型的操作，并能够处理自定义资源定义（CRD）。 通过使用 kom，你可以轻松地进行资源的增删改查和日志获取以及操作POD内文件等动作。",
+                    "homepage": "https://github.com/weibaohui/kom",
                     "id": 876112489,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T01:43:05Z",
+                    "open_issues": 5,
                     "owner": "weibaohui",
                     "repo": "kom",
-                    "stars": 149
+                    "stars": 149,
+                    "topics": [
+                      "client-go",
+                      "cluster",
+                      "crd",
+                      "k8s",
+                      "kom",
+                      "kubectl",
+                      "mcp",
+                      "sdk",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 },
@@ -590,12 +851,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MCP Server for kubernetes management and diagnose your cluster and applications",
+                    "homepage": null,
                     "id": 950358176,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-16T09:47:30Z",
+                    "open_issues": 3,
                     "owner": "wenhuwang",
                     "repo": "mcp-k8s-eye",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 },
@@ -606,12 +872,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+                    "homepage": "https://console.kubestellar.io",
                     "id": 1135473716,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T14:49:41Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T04:57:22Z",
+                    "open_issues": 10,
                     "owner": "kubestellar",
                     "repo": "console",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:24:16.173Z"
                 }
@@ -634,12 +905,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Tilt - enables LLMs to interact with your Tilt dev environment for building, deploying, and debugging Kubernetes workloads",
+                "homepage": null,
                 "id": 1060128393,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-08T17:58:49Z",
+                "open_issues": 0,
                 "owner": "rrmistry",
                 "repo": "tilt-mcp",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "claude",
+                  "developer-tools",
+                  "kubernetes",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol",
+                  "tilt"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -657,12 +941,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A nomad MCP Server (modelcontextprotocol) ",
+                "homepage": "https://www.npmjs.com/package/@kocierik/mcp-nomad",
                 "id": 969499680,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-23T22:04:36Z",
+                "open_issues": 0,
                 "owner": "kocierik",
                 "repo": "mcp-nomad",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "mcp",
+                  "nomad",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -680,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker Hub MCP Server",
+                "homepage": null,
                 "id": 1000982653,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:05:32Z",
+                "open_issues": 4,
                 "owner": "docker",
                 "repo": "hub-mcp",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -703,12 +1001,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source, self-hosted control plane for OpenClaw and Hermes AI-agent fleets on Docker/Kubernetes — REST, CLI, and MCP.",
+                "homepage": "https://nora.solomontsao.com",
                 "id": 1186006472,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T05:57:06Z",
+                "open_issues": 14,
                 "owner": "solomon2773",
                 "repo": "nora",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "agent-management",
+                  "agent-ops",
+                  "agent-orchestration",
+                  "ai-agent-platform",
+                  "ai-agents",
+                  "claude-code-plugin",
+                  "control-plane",
+                  "docker",
+                  "hermes-agent",
+                  "homelab",
+                  "kubernetes",
+                  "llmops",
+                  "mcp",
+                  "mcp-server",
+                  "nemoclaw",
+                  "observability",
+                  "openclaw",
+                  "platform-engineering",
+                  "self-hosted",
+                  "self-hosted-ai"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -726,12 +1050,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Portainer MCP server",
+                "homepage": "https://portainer.io",
                 "id": 945624059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:44:34Z",
+                "open_issues": 9,
                 "owner": "portainer",
                 "repo": "portainer-mcp",
-                "stars": 221
+                "stars": 222,
+                "topics": [
+                  "ai",
+                  "containerization",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "portainer"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -753,12 +1089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line interface for MCP clients with secure execution and customizable security policies",
+            "homepage": null,
             "id": 900498586,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-04T21:02:36Z",
+            "open_issues": 11,
             "owner": "MladenSU",
             "repo": "cli-mcp-server",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -769,12 +1110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Context Protocol server to run commands (tool: `runProcess`)",
+            "homepage": null,
             "id": 895838922,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T05:50:28Z",
+            "open_issues": 8,
             "owner": "g0t4",
             "repo": "mcp-server-commands",
-            "stars": 232
+            "stars": 232,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -785,12 +1131,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for AI agents to connect and interact with remote servers over SSH.",
+            "homepage": "https://harsh-2002.github.io/SSH-MCP/",
             "id": 1134119464,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-02-17T11:56:16Z",
+            "open_issues": 0,
             "owner": "Harsh-2002",
             "repo": "SSH-MCP",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ai-agents",
+              "mcp-server",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -801,12 +1156,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure MCP server for whitelisted shell command execution with stdin, argv pipelines, timeouts, and structured audit logging.",
+            "homepage": null,
             "id": 901328207,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T12:41:46Z",
+            "open_issues": 0,
             "owner": "tumf",
             "repo": "mcp-shell-server",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "audit-log",
+              "command-whitelist",
+              "mcp",
+              "model-context-protocol",
+              "security",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -817,12 +1184,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance",
+            "homepage": "https://www.npmjs.com/package/iterm-mcp",
             "id": 914173426,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-20T17:31:44Z",
+            "open_issues": 9,
             "owner": "ferrislucas",
             "repo": "iterm-mcp",
-            "stars": 568
+            "stars": 568,
+            "topics": [
+              "ai",
+              "claude",
+              "claude-ai",
+              "mcp",
+              "mcp-server",
+              "repl"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -833,12 +1212,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Approval-first MCP terminal control: inspect risk, permissions and limits before bounded execution, then keep signed receipts.",
+            "homepage": "https://othmaneblial.github.io/term_mcp_deepseek/",
             "id": 956374411,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:13:23Z",
+            "open_issues": 6,
             "owner": "OthmaneBlial",
             "repo": "term_mcp_deepseek",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai-agents",
+              "approval-workflow",
+              "audit-log",
+              "command-execution",
+              "deepseek",
+              "developer-tools",
+              "json-rpc",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "observability",
+              "python",
+              "sandbox",
+              "security",
+              "signed-receipts",
+              "terminal",
+              "terminal-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -849,12 +1252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stdio MCP Server wrapping custom Python runtime (LocalPythonExecutor) from Hugging Faces' `smolagents` framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.",
+            "homepage": null,
             "id": 955932781,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-17T10:42:27Z",
+            "open_issues": 1,
             "owner": "maxim-saplin",
             "repo": "mcp_safe_local_python_executor",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -865,12 +1273,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+            "homepage": "https://desktopcommander.app/",
             "id": 898345892,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:57:36Z",
+            "open_issues": 229,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9425
+            "stars": 9427,
+            "topics": [
+              "agent",
+              "ai",
+              "code-analysis",
+              "code-generation",
+              "gemini-cli-extension",
+              "mcp",
+              "terminal-ai",
+              "terminal-automation",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -881,12 +1304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP Server for pyATS (experimental)",
+            "homepage": null,
             "id": 960564327,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T15:03:21Z",
+            "open_issues": 0,
             "owner": "automateyournetwork",
             "repo": "pyATS_MCP",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         }
@@ -903,12 +1331,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agentic browser for your AI apps and agents, with built-in MCP and A2A support.",
+            "homepage": null,
             "id": 968886455,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-20T12:57:49Z",
+            "open_issues": 0,
             "owner": "aircodelabs",
             "repo": "grasp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "a2a",
+              "agent",
+              "agentic-browser",
+              "anthropic",
+              "automation",
+              "browser",
+              "browser-use",
+              "mcp-server",
+              "no-code",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -919,12 +1363,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Allow LLMs to control a browser with Browserbase and Stagehand",
+            "homepage": "https://stagehand.dev",
             "id": 899184149,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T21:48:14Z",
+            "open_issues": 51,
             "owner": "browserbase",
             "repo": "mcp-server-browserbase",
-            "stars": 3408
+            "stars": 3407,
+            "topics": [
+              "ai",
+              "browser",
+              "chrome",
+              "chromium",
+              "mcp",
+              "playwright",
+              "puppeteer"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -935,12 +1392,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+            "homepage": "https://browsermcp.io",
             "id": 956283541,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-24T21:49:44Z",
+            "open_issues": 148,
             "owner": "BrowserMCP",
             "repo": "mcp",
-            "stars": 7027
+            "stars": 7030,
+            "topics": [
+              "browser-automation",
+              "browser-extension",
+              "claude",
+              "cursor",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -951,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for browser automation using Playwright",
+            "homepage": null,
             "id": 897203967,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-05T21:48:28Z",
+            "open_issues": 10,
             "owner": "VikashLoomba",
             "repo": "MCP-Server-Playwright",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -967,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 911932691,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-07T06:35:52Z",
+            "open_issues": 5,
             "owner": "blackwhite084",
             "repo": "playwright-plus-python-mcp",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -983,12 +1462,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright MCP server",
+            "homepage": "https://www.npmjs.com/package/@playwright/mcp",
             "id": 952688112,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:15:08Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:44:41Z",
+            "open_issues": 4,
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36577
+            "stars": 36592,
+            "topics": [
+              "mcp",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -999,12 +1486,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse the web, directly from Cursor etc.",
+            "homepage": "https://kontext.security",
             "id": 943806192,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-20T20:43:30Z",
+            "open_issues": 22,
             "owner": "kontext-security",
             "repo": "browser-use-mcp-server",
-            "stars": 843
+            "stars": 843,
+            "topics": [
+              "browser",
+              "browser-use",
+              "cursor",
+              "mcp",
+              "mcp-server",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1015,12 +1514,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server paired with a browser extension that enables AI agents to control the user's browser.",
+            "homepage": null,
             "id": 956055682,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T18:44:48Z",
+            "open_issues": 24,
             "owner": "eyalzh",
             "repo": "browser-control-mcp",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "browser-extension",
+              "firefox",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1031,12 +1539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP Server that enables AI assistants to interact with your local browsers.",
+            "homepage": null,
             "id": 958850369,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:32:13Z",
+            "open_issues": 6,
             "owner": "ndthanhdev",
             "repo": "mcp-browser-kit",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1047,12 +1560,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal Model Context Protocol 🖥️ server/client🧑‍💻with OpenAI and 🌐 web browser control via Playwright.",
+            "homepage": null,
             "id": 902856894,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-16T03:07:59Z",
+            "open_issues": 0,
             "owner": "kimtth",
             "repo": "mcp-aoai-web-browsing",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "azure-openai",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "model-context-protocol",
+              "playwright",
+              "web-automation"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1063,12 +1589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scrapeless Mcp Server",
+            "homepage": null,
             "id": 958339532,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:22:09Z",
+            "open_issues": 1,
             "owner": "scrapeless-ai",
             "repo": "scrapeless-mcp-server",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1079,12 +1610,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
             "id": 1232322871,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 889
+            "stars": 913,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         }
@@ -1101,12 +1658,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+            "homepage": "https://pydantic.dev/pydantic-ai",
             "id": 818331198,
             "language": "Python",
-            "last_commit": "2026-08-28T15:20:27Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:21:33Z",
+            "open_issues": 749,
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 19554
+            "stars": 19567,
+            "topics": [
+              "agent-framework",
+              "genai",
+              "harness",
+              "harness-engineering",
+              "llm",
+              "pydantic",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1117,12 +1687,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server that exposes YepCode processes as callable tools for AI platforms. Securely connect AI assistants to your YepCode workflows, APIs, and automations.",
+            "homepage": "https://yepcode.io/mcp-server",
             "id": 955424433,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-17T09:19:23Z",
+            "open_issues": 1,
             "owner": "yepcode",
             "repo": "mcp-server-js",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "mcp",
+              "mcp-server",
+              "mcp-tool",
+              "mcp-tools",
+              "yepcode"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1133,12 +1718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node.js–based Model Context Protocol server that spins up disposable Docker containers to execute arbitrary JavaScript.",
+            "homepage": null,
             "id": 973007786,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-11-24T20:00:40Z",
+            "open_issues": 15,
             "owner": "alfonsograziano",
             "repo": "node-code-sandbox-mcp",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1149,12 +1739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dockerized MCP Server to allow your AI agent to access any API with existing api docs",
+            "homepage": null,
             "id": 970972422,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-03-21T07:49:31Z",
+            "open_issues": 7,
             "owner": "ckanthony",
             "repo": "openapi-mcp",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         }
@@ -1171,12 +1766,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI  ",
+            "homepage": "https://octocode.ai/",
             "id": 996813130,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:36:22Z",
+            "open_issues": 3,
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 920
+            "stars": 920,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "claude-ai",
+              "code-intelligence",
+              "code-search",
+              "context",
+              "cursor",
+              "cursor-ai",
+              "development",
+              "github",
+              "github-api",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "modelcontextprotocol",
+              "octocode",
+              "semantic-search",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1187,12 +1808,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+            "homepage": "https://oraios.github.io/serena",
             "id": 953683578,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T06:51:15Z",
+            "open_issues": 153,
             "owner": "oraios",
             "repo": "serena",
-            "stars": 28572
+            "stars": 28586,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-coding",
+              "claude",
+              "claude-code",
+              "codex",
+              "ide",
+              "jetbrains",
+              "language-server",
+              "mcp-server",
+              "programming",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1203,12 +1842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coding assistant MCP for Claude Desktop",
+            "homepage": null,
             "id": 945281966,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-25T02:10:23Z",
+            "open_issues": 78,
             "owner": "ezyang",
             "repo": "codemcp",
-            "stars": 1608
+            "stars": 1608,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1219,12 +1863,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent Project Context for Claude — IANA-registered .faf format · 32 tools + 1 prompt · MCP Registry #2759",
+            "homepage": "https://faf.one",
             "id": 1056826668,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T23:18:54Z",
+            "open_issues": 2,
             "owner": "Wolfe-Jam",
             "repo": "claude-faf-mcp",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "agents-md",
+              "ai",
+              "ai-context",
+              "ai-readiness",
+              "anthropic",
+              "claude",
+              "claude-ai",
+              "claude-desktop",
+              "developer-tools",
+              "faf",
+              "gemini",
+              "github-copilot",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "nodejs",
+              "npm",
+              "project-dna",
+              "typescript",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1235,12 +1905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server to expose VS Code editing features to an LLM for AI coding",
+            "homepage": null,
             "id": 970322277,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-07T15:40:49Z",
+            "open_issues": 13,
             "owner": "juehang",
             "repo": "vscode-mcp-server",
-            "stars": 390
+            "stars": 391,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1251,12 +1926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol (MCP) server for LeetCode that provides access to problems, user data, and contest information through GraphQL",
+            "homepage": null,
             "id": 959135330,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-02T14:27:05Z",
+            "open_issues": 4,
             "owner": "doggybee",
             "repo": "mcp-server-leetcode",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1267,12 +1947,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server enabling automated access to LeetCode's problems, solutions, and public data with optional authentication for user-specific features, supporting leetcode.com & leetcode.cn sites.",
+            "homepage": "https://www.npmjs.com/package/@jinzcdev/leetcode-mcp-server",
             "id": 965242185,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-12T12:05:31Z",
+            "open_issues": 0,
             "owner": "jinzcdev",
             "repo": "leetcode-mcp-server",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "ai",
+              "algorithm",
+              "lc",
+              "leetcode",
+              "llm",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1283,12 +1976,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time monitoring tool for Model Context Protocol (MCP) interactions in Cursor AI editor. Track, analyze, and debug AI context exchanges between LLM clients and servers. Supports log rotation, pattern matching, and color-coded event visualization.",
+            "homepage": null,
             "id": 941819211,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-03-12T00:57:16Z",
+            "open_issues": 0,
             "owner": "willibrandon",
             "repo": "CursorMCPMonitor",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "cursor",
+              "dotnet-tool",
+              "log",
+              "mcp",
+              "monitor",
+              "real-time",
+              "tail"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1299,12 +2005,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the agent experience layer · observability + memory for AI coding agents (Claude Code + Codex) · local-first, typed, yours",
+            "homepage": null,
             "id": 1232710515,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T15:01:41Z",
+            "open_issues": 34,
             "owner": "Necmttn",
             "repo": "ax",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "agent-memory",
+              "agent-observability",
+              "ai-agents",
+              "bun",
+              "claude-code",
+              "codex",
+              "developer-tools",
+              "effect-ts",
+              "evidence-graph",
+              "llm-observability",
+              "surrealdb",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1315,12 +2039,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent AI memory for Claude Code, Cursor & Cline. Auto-captures decisions, patterns and context across sessions. Zero-config VSCode extension + CLI + MCP server.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=cortex-dev.cortex-ai-memory",
             "id": 1183324495,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-25T22:51:15Z",
+            "open_issues": 0,
             "owner": "SKULLFIRE07",
             "repo": "cortex-memory",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ai",
+              "ai-coding-assistant",
+              "ai-memory",
+              "claude",
+              "claude-code",
+              "cline",
+              "context-engineering",
+              "copilot",
+              "cursor",
+              "developer-productivity",
+              "developer-tools",
+              "mcp",
+              "mcp-server",
+              "open-source",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1331,12 +2076,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "claude-node lets Python directly run, supervise, and integrate the real local Claude Code runtime. It preserves native CLI capabilities through stream-json, explicit session lifecycle, and process-level control — not another high-level agent framework, but a thin runtime layer for embedding Claude Code into your own systems.",
+            "homepage": null,
             "id": 1188538173,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-04T00:29:41Z",
+            "open_issues": 0,
             "owner": "claw-army",
             "repo": "claude-node",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "agent-routing",
+              "agentic-code",
+              "agentic-coding",
+              "ai",
+              "ai-workflow-optimization",
+              "anthropic",
+              "claude-code",
+              "coding-agents",
+              "llm",
+              "runtime-deploy",
+              "stream-json"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1347,12 +2109,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hoofy — AI development companion MCP server. Persistent memory, spec-driven development, adaptive change pipeline, Clarity Gate. 32 tools, single Go binary, zero deps.",
+            "homepage": "https://hendrycode.xyz/blog/2026/2/25/hoofy-tu-companion-de-desarrollo-con-ia-que-no-te-deja-cortar-camino/",
             "id": 1162612963,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-12T18:41:50Z",
+            "open_issues": 0,
             "owner": "HendryAvila",
             "repo": "Hoofy",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "ai",
+              "ai-assistant",
+              "ai-coding",
+              "ai-development",
+              "ai-tools",
+              "code-quality",
+              "developer-tools",
+              "go",
+              "golang",
+              "hoofy",
+              "knowledge-graph",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "persistent-memory",
+              "requirements-engineering",
+              "spec-driven-development",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1363,12 +2149,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AccInt - local-first MCP Work Model for coding agents that learns from real outcomes.",
+            "homepage": "https://accint.xyz",
             "id": 1265298473,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-05T18:31:50Z",
+            "open_issues": 2,
             "owner": "maxbaluev",
             "repo": "accreted-intelligence",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "ai-tools",
+              "claude-code",
+              "codex",
+              "colbert",
+              "colpali",
+              "cursor",
+              "developer-tools",
+              "late-interaction",
+              "llm",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "opencode",
+              "rag",
+              "recursive-language-models",
+              "reinforcement-learning",
+              "retrieval",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         }
@@ -1385,12 +2197,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface",
+            "homepage": "https://askbudi.ai/roundtable",
             "id": 1059882384,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-06T04:11:43Z",
+            "open_issues": 7,
             "owner": "yylo-dev",
             "repo": "roundtable",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "claude-code",
+              "cursor",
+              "gemini-cli",
+              "mcp-server",
+              "openai-codex",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1401,12 +2225,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.",
+            "homepage": "https://anyquery.dev",
             "id": 783007462,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T07:37:47Z",
+            "open_issues": 9,
             "owner": "julien040",
             "repo": "anyquery",
-            "stars": 1770
+            "stars": 1770,
+            "topics": [
+              "ai",
+              "analytics",
+              "api",
+              "business-intelligence",
+              "chatgpt",
+              "csv",
+              "data-visualization",
+              "database",
+              "github",
+              "go",
+              "json",
+              "llm",
+              "mcp",
+              "mysql",
+              "notion",
+              "parquet",
+              "salesforce",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1417,12 +2266,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Aggregator, Orchestrator, Middleware, Gateway in one docker",
+            "homepage": "https://docs.metamcp.com",
             "id": 920576726,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-22T16:50:50Z",
+            "open_issues": 105,
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2631
+            "stars": 2632,
+            "topics": [
+              "mcp",
+              "mcp-gateway",
+              "mcp-host",
+              "mcp-middleware",
+              "mcp-server",
+              "mcp-servers",
+              "mcp-to-openapi",
+              "mcp-tools",
+              "model-context-protocol",
+              "model-context-protocol-server",
+              "model-context-protocol-servers",
+              "open-webui",
+              "openapi",
+              "self-hosted",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1433,12 +2303,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The unified workspace where open-source models get things done for you.",
+            "homepage": "https://mindshub.ai",
             "id": 143328315,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-08-21T23:50:38Z",
+            "open_issues": 2,
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39655
+            "stars": 39656,
+            "topics": [
+              "agents",
+              "ai",
+              "anton",
+              "artificial-inteligence",
+              "claude",
+              "claude-cowork",
+              "codex",
+              "cowork",
+              "deepseek",
+              "glm",
+              "hermes",
+              "hermes-agent",
+              "kimi",
+              "mcp",
+              "mindsdb"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1449,12 +2340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Discover, setup, and integrate MCP servers with your favorite clients. Unlock the full potential of AI in your daily workflow.",
+            "homepage": null,
             "id": 971802843,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-04-24T04:51:41Z",
+            "open_issues": 3,
             "owner": "glenngillen",
             "repo": "mcpmcp-server",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1465,12 +2361,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://install.boltmcp.io",
             "id": 956001827,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-24T07:38:30Z",
+            "open_issues": 0,
             "owner": "boltmcp",
             "repo": "boltmcp",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "agentic-ai",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1481,12 +2388,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect APIs, remarkably fast.  Free for developers.",
+            "homepage": "https://pipedream.com",
             "id": 235468657,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T14:46:55Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:16:46Z",
+            "open_issues": 4372,
             "owner": "PipedreamHQ",
             "repo": "pipedream",
-            "stars": 11653
+            "stars": 11653,
+            "topics": [
+              "apis",
+              "automation",
+              "bash",
+              "cli",
+              "data-flow",
+              "event-sourcing",
+              "eventsourcing",
+              "golang",
+              "integration-flow",
+              "integrations",
+              "ipaas",
+              "low-code",
+              "low-code-development-platform",
+              "nodejs",
+              "python",
+              "serverless",
+              "typescript",
+              "workflow",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1497,12 +2429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugged.in MCP Server manages all your other MCPs in one MCP.",
+            "homepage": null,
             "id": 961950908,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-10T20:39:02Z",
+            "open_issues": 1,
             "owner": "VeriTeknik",
             "repo": "pluggedin-mcp-proxy",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1513,12 +2450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The only MCP Server you need. Connect any MCP host with the tools you use daily through our no-code, secure integration hub.",
+            "homepage": "https://waystation.ai",
             "id": 940157592,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-09-10T06:42:53Z",
+            "open_issues": 1,
             "owner": "waystation-ai",
             "repo": "mcp",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1529,12 +2471,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn a web server into an MCP server in one click without making any code changes.",
+            "homepage": "https://deepwiki.com/sxhxliang/mcp-access-point",
             "id": 961469209,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-11T03:03:01Z",
+            "open_issues": 2,
             "owner": "sxhxliang",
             "repo": "mcp-access-point",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "gateway",
+              "mcp",
+              "mcp-servers",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -1545,12 +2497,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find MCP - stdio MCP client for the agentage MCP directory (catalog.agentage.io/mcp) - npx -y @agentage/find-mcp",
+            "homepage": "https://catalog.agentage.io/mcp",
             "id": 1300999234,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T00:06:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:37:43Z",
+            "open_issues": 0,
             "owner": "agentage",
             "repo": "find-mcp",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "mcp",
+              "mcp-client",
+              "mcp-directory",
+              "model-context-protocol",
+              "search",
+              "stdio"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         }
@@ -1569,12 +2533,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of Model Context Protocol (MCP) server for Argo CD.",
+                "homepage": "https://www.npmjs.com/package/argocd-mcp",
                 "id": 967155121,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T15:32:49Z",
+                "open_issues": 67,
                 "owner": "argoproj-labs",
                 "repo": "mcp-for-argocd",
-                "stars": 560
+                "stars": 560,
+                "topics": [
+                  "ai",
+                  "argocd",
+                  "argocd-mcp",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "devops",
+                  "gitops",
+                  "kubernetes",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-context-protocol-servers"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1592,12 +2574,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://plugins.jenkins.io/mcp-server/",
                 "id": 991268311,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:40:24Z",
+                "open_issues": 31,
                 "owner": "jenkinsci",
                 "repo": "mcp-server-plugin",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "ai",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1615,12 +2605,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codemagic CI/CD MCP Server",
+                "homepage": null,
                 "id": 976205247,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-28T14:22:59Z",
+                "open_issues": 0,
                 "owner": "stefanoamorelli",
                 "repo": "codemagic-mcp",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1638,12 +2633,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source framework to drive a real phone with AI agents: Android over ADB, iPhone over WebDriverAgent, 62 MCP tools, Python skills, a Vue dashboard, and swappable local or cloud LLMs",
+                "homepage": "https://ghostinthedroid.com",
                 "id": 1204406252,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-13T22:43:42Z",
+                "open_issues": 1,
                 "owner": "ghost-in-the-droid",
                 "repo": "android-agent",
-                "stars": 325
+                "stars": 326,
+                "topics": [
+                  "adb",
+                  "android",
+                  "android-automation",
+                  "automation",
+                  "bot-framework",
+                  "fastapi",
+                  "ios",
+                  "iphone",
+                  "mcp",
+                  "open-source",
+                  "phone-farm",
+                  "python",
+                  "skill-system",
+                  "vue",
+                  "webdriveragent"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1661,12 +2677,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build shared AI workspaces for creation, simulation, verification, MCP tools, and replayable receipts.",
+                "homepage": "https://harperz9.github.io/studio.html",
                 "id": 1279698454,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T22:40:16Z",
+                "open_issues": 2,
                 "owner": "HarperZ9",
                 "repo": "telos",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ai-agents",
+                  "automation",
+                  "browser-automation",
+                  "computer-use",
+                  "llm",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1677,12 +2709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for end-to-end development visibility (Jira, GitHub, CI/CD, etc.)",
+                "homepage": null,
                 "id": 960032575,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-03T19:57:08Z",
+                "open_issues": 0,
                 "owner": "SBDI",
                 "repo": "mcp-devps-hub",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1693,12 +2730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firefly MCP",
+                "homepage": null,
                 "id": 954695818,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-13T07:22:40Z",
+                "open_issues": 4,
                 "owner": "gofireflyio",
                 "repo": "firefly-mcp",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1716,12 +2758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python MCP server with CI/CD tooling and testability built-in",
+                "homepage": null,
                 "id": 972458063,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-25T05:47:07Z",
+                "open_issues": 0,
                 "owner": "Acid-base",
                 "repo": "FastMCP-Proper",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1732,12 +2779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Hello World MCP server for CI/CD test",
+                "homepage": null,
                 "id": 969606700,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-20T06:33:30Z",
+                "open_issues": 1,
                 "owner": "lobehub",
                 "repo": "mcp-hello-world",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1748,12 +2800,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub Action that lints CLAUDE.md-style agent constitution files for missing operational guardrails — spend limits, injection defense, escalation paths, secrets rules",
+                "homepage": "https://joeyycli.github.io/agent-ops-kit-guide/",
                 "id": 1304873167,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T22:06:37Z",
+                "open_issues": 0,
                 "owner": "joeyycli",
                 "repo": "constitution-lint-action",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "agent-safety",
+                  "ai-agents",
+                  "autonomous-agents",
+                  "ci",
+                  "claude-code",
+                  "claude-md",
+                  "github-actions",
+                  "guardrails",
+                  "lint",
+                  "llm-agents",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1771,12 +2842,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server providing AI assistants with Maven Central dependency intelligence for all JVM build tools (Maven, Gradle, SBT, Mill). Features Context7 integration for documentation support.",
+                "homepage": "https://dev.to/arvindand/how-i-connected-claude-to-maven-central-and-why-you-should-too-2clo",
                 "id": 997649358,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:47:51Z",
+                "open_issues": 0,
                 "owner": "arvindand",
                 "repo": "maven-tools-mcp",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "ai-tools",
+                  "dependency-management",
+                  "developer-tools",
+                  "docker",
+                  "graalvm",
+                  "gradle",
+                  "java",
+                  "maven",
+                  "maven-central",
+                  "maven-tools",
+                  "mcp",
+                  "mcp-server",
+                  "native-image",
+                  "spring-ai",
+                  "spring-boot"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1787,12 +2879,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+                "homepage": "https://notfair.co/",
                 "id": 1193374549,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T00:18:45Z",
+                "open_issues": 12,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3422
+                "stars": 3427,
+                "topics": [
+                  "agents",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "gemini-cli-extension",
+                  "geo",
+                  "googleads",
+                  "googleadsmcp",
+                  "mcp",
+                  "metaads",
+                  "seo"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1816,12 +2924,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source MCP Servers for AWS",
+                "homepage": "https://awslabs.github.io/mcp/",
                 "id": 952238700,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:55:15Z",
+                "open_issues": 255,
                 "owner": "awslabs",
                 "repo": "mcp",
-                "stars": 9642
+                "stars": 9643,
+                "topics": [
+                  "aws",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-clients",
+                  "mcp-host",
+                  "mcp-server",
+                  "mcp-servers",
+                  "mcp-tools",
+                  "modelcontextprotocol"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1832,12 +2955,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight service that enables AI assistants to execute AWS CLI commands (in safe containerized environment) through the Model Context Protocol (MCP). Bridges Claude, Cursor, and other MCP-aware AI tools with AWS CLI for enhanced cloud infrastructure management.",
+                "homepage": null,
                 "id": 951314828,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-27T14:42:40Z",
+                "open_issues": 2,
                 "owner": "alexei-led",
                 "repo": "cloud-mcp-server",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "ai-assistant",
+                  "aws",
+                  "aws-automation",
+                  "claude",
+                  "cloud-infrastructure",
+                  "devops",
+                  "docker",
+                  "mcp",
+                  "mcp-server",
+                  "modelcontextprotocol"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1855,12 +2994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol (MCP) server that provides access to Azure Resource Graph queries. It allows you to retrieve information about Azure resources across your subscriptions using Resource Graph queries.",
+                "homepage": null,
                 "id": 959506471,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-05-06T18:41:57Z",
+                "open_issues": 1,
                 "owner": "hardik-id",
                 "repo": "azure-resource-graph-mcp-server",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1871,12 +3015,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft Azure Data Lake Storage MCP Server",
+                "homepage": null,
                 "id": 960063905,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-31T01:46:12Z",
+                "open_issues": 3,
                 "owner": "erikhoward",
                 "repo": "adls-mcp-server",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "adls",
+                  "azure",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1894,12 +3048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 895268756,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T09:19:59Z",
+                "open_issues": 56,
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4122
+                "stars": 4123,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1917,12 +3076,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AlibabaCloud CloudOps MCP Server",
+                "homepage": null,
                 "id": 967873415,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T15:21:52Z",
+                "open_issues": 4,
                 "owner": "aliyun",
                 "repo": "alibaba-cloud-ops-mcp-server",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "alibabacloud",
+                  "cloudops",
+                  "llm",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1933,12 +3102,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alibaba Cloud's ack-mcp-server unifies container operations capabilities, enabling AI assistants and third-party AI agents to perform complex tasks via natural language through the MCP protocol, empowering container-native AIOps. DingTalk discussion group:  70080006301",
+                "homepage": null,
                 "id": 1059280537,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T09:30:35Z",
+                "open_issues": 8,
                 "owner": "aliyun",
                 "repo": "alibabacloud-ack-mcp-server",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "aiops",
+                  "kubernetes",
+                  "mcp",
+                  "observability",
+                  "sre"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -1956,12 +3138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.",
+                "homepage": null,
                 "id": 947797382,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-01T09:22:52Z",
+                "open_issues": 6,
                 "owner": "bright8192",
                 "repo": "esxi-mcp-server",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -1972,12 +3159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP Server for Nutanix",
+                "homepage": null,
                 "id": 956134095,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-29T09:57:21Z",
+                "open_issues": 1,
                 "owner": "thunderboltsid",
                 "repo": "mcp-nutanix",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2001,12 +3193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Grafana",
+                "homepage": null,
                 "id": 907869862,
                 "language": "Go",
-                "last_commit": "2026-08-28T15:11:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:17:28Z",
+                "open_issues": 99,
                 "owner": "grafana",
                 "repo": "mcp-grafana",
-                "stars": 3398
+                "stars": 3399,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2017,12 +3214,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP ( Model Context Protocol ) Server for Grafana Loki",
+                "homepage": "https://github.com/grafana/loki",
                 "id": 963989901,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-08-22T23:08:36Z",
+                "open_issues": 27,
                 "owner": "grafana",
                 "repo": "loki-mcp",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "agentic-ai",
+                  "agentic-workflow",
+                  "golang",
+                  "grafana",
+                  "loki",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2040,12 +3250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server providing AI assistants with full Datadog observability access.",
+                "homepage": null,
                 "id": 1116861729,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T20:32:47Z",
+                "open_issues": 15,
                 "owner": "TANTIOPE",
                 "repo": "datadog-mcp-server",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2063,12 +3278,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server that enables AI agents and LLMs to query and analyze Prometheus metrics through standardized interfaces.",
+                "homepage": null,
                 "id": 951416232,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-05T17:30:03Z",
+                "open_issues": 8,
                 "owner": "pab1it0",
                 "repo": "prometheus-mcp-server",
-                "stars": 513
+                "stars": 513,
+                "topics": [
+                  "ai",
+                  "devops",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2079,12 +3306,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Prometheus Model Context Protocol Server.",
+                "homepage": null,
                 "id": 964739229,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T16:03:19Z",
+                "open_issues": 2,
                 "owner": "yshngg",
                 "repo": "prometheus-mcp-server",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "mcp",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2095,12 +3330,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server implementation that provides AI agents with programmatic access to Prometheus metrics via a unified interface.",
+                "homepage": null,
                 "id": 1004185555,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T01:58:49Z",
+                "open_issues": 4,
                 "owner": "idanfishman",
                 "repo": "prometheus-mcp",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "automation",
+                  "mcp",
+                  "mcp-server",
+                  "metrics",
+                  "modelcontextprotocol",
+                  "monitoring",
+                  "prometheus",
+                  "prometheus-metrics"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2111,12 +3360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server to connect LLMs with Prometheus HTTP API",
+                "homepage": null,
                 "id": 967127362,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-24T12:18:11Z",
+                "open_issues": 0,
                 "owner": "etruong42",
                 "repo": "prometheus-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2127,12 +3381,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server enabling LLMs to query, analyze, and interact with Prometheus databases through predefined routes.",
+                "homepage": null,
                 "id": 899426240,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-05T06:16:27Z",
+                "open_issues": 3,
                 "owner": "CaesarYangs",
                 "repo": "prometheus_mcp_server",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "model-context-protocol",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2150,12 +3412,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of Model Context Protocol (MCP) server for VictoriaMetrics",
+                "homepage": "https://victoriametrics.com/",
                 "id": 980251556,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T08:12:35Z",
+                "open_issues": 21,
                 "owner": "VictoriaMetrics",
                 "repo": "mcp-victoriametrics",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "ai",
+                  "mcp",
+                  "mcp-server",
+                  "monitoring",
+                  "observability",
+                  "rag",
+                  "victoriametrics"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2173,12 +3448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server that integrates with Prometheus Alertmanager",
+                "homepage": null,
                 "id": 946253738,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-28T22:06:41Z",
+                "open_issues": 0,
                 "owner": "kaznak",
                 "repo": "alertmanager-mcp",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2196,12 +3476,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Dynatrace Observability",
+                "homepage": null,
                 "id": 971357826,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T09:14:55Z",
+                "open_issues": 0,
                 "owner": "dynatrace-oss",
                 "repo": "dynatrace-mcp",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "claude",
+                  "cline",
+                  "copilot",
+                  "dynatrace",
+                  "mcp",
+                  "monitoring",
+                  "observability"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2212,12 +3505,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Last9 MCP Server",
+                "homepage": "https://last9.io/mcp",
                 "id": 956279002,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:58:22Z",
+                "open_issues": 12,
                 "owner": "last9",
                 "repo": "last9-mcp-server",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "claude",
+                  "cursor",
+                  "mcp",
+                  "monitoring",
+                  "observability",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2228,12 +3535,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Uptrack uptime monitoring — use with Claude, ChatGPT, Cursor, VS Code, Windsurf",
+                "homepage": "https://uptrack.app/dashboard/install",
                 "id": 1197557891,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-05-06T13:56:45Z",
+                "open_issues": 0,
                 "owner": "Uptrack-App",
                 "repo": "uptrack-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "claude",
+                  "mcp",
+                  "model-context-protocol",
+                  "monitoring",
+                  "uptime-monitoring"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2257,12 +3576,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A MCP server for using Semgrep to scan code for security vulnerabilities.",
+                "homepage": "https://mcp.semgrep.ai",
                 "id": 950213855,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-28T22:32:31Z",
+                "open_issues": 28,
                 "owner": "semgrep",
                 "repo": "mcp",
-                "stars": 684
+                "stars": 684,
+                "topics": [
+                  "mcp",
+                  "semgrep"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2280,12 +3607,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local stdio bridge to the Palisade MCP server (SPF, DKIM, DMARC, MTA-STS, BIMI).",
+                "homepage": "https://www.palisade.email/mcp",
                 "id": 1334283757,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T20:21:10Z",
+                "open_issues": 0,
                 "owner": "palisadeemail",
                 "repo": "palisade-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "bimi",
+                  "dkim",
+                  "dmarc",
+                  "dns",
+                  "email-security",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "spf"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2303,12 +3645,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI writes. SPARDA proves. A deterministic, offline gate that catches when an AI edit removes a guard, exposes a route, or breaks an invariant — no API key, right in the agent edit loop.",
+                "homepage": null,
                 "id": 1270615052,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T11:45:29Z",
+                "open_issues": 8,
                 "owner": "zyx77550",
                 "repo": "sparda",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "ai-agents",
+                  "ai-code-review",
+                  "authorization",
+                  "bola",
+                  "claude-code",
+                  "guardrails",
+                  "mcp",
+                  "security",
+                  "static-analysis",
+                  "trust-layer"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2319,12 +3677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP Server for Ghidra",
+                "homepage": null,
                 "id": 953335676,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-23T04:18:18Z",
+                "open_issues": 82,
                 "owner": "LaurieWired",
                 "repo": "GhidraMCP",
-                "stars": 9876
+                "stars": 9882,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2335,12 +3698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active Socket based MCP Server for Ghidra",
+                "homepage": null,
                 "id": 954022378,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T08:21:30Z",
+                "open_issues": 4,
                 "owner": "13bm",
                 "repo": "GhidraMCP",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2351,12 +3719,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Shodan — search internet-connected devices, IP reconnaissance, DNS lookups, and CVE/CPE vulnerability intelligence. Works with Claude Code, Codex, Gemini CLI, and Claude Desktop.",
+                "homepage": "https://registry.modelcontextprotocol.io",
                 "id": 902513820,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-31T18:08:46Z",
+                "open_issues": 5,
                 "owner": "w0h1v",
                 "repo": "mcp-shodan",
-                "stars": 158
+                "stars": 159,
+                "topics": [
+                  "ai-tools",
+                  "claude",
+                  "cpe",
+                  "cve",
+                  "cybersecurity",
+                  "dns",
+                  "ip-lookup",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "network-security",
+                  "osint",
+                  "reconnaissance",
+                  "security",
+                  "shodan",
+                  "shodan-api",
+                  "threat-intelligence",
+                  "typescript",
+                  "vulnerability-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2367,12 +3760,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for VirusTotal API — analyze URLs, files, IPs, and domains with comprehensive security reports, relationship analysis, and pagination support.",
+                "homepage": "https://registry.modelcontextprotocol.io",
                 "id": 902629770,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-24T03:00:04Z",
+                "open_issues": 6,
                 "owner": "w0h1v",
                 "repo": "mcp-virustotal",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "ai-tools",
+                  "claude",
+                  "cybersecurity",
+                  "ioc",
+                  "malware-analysis",
+                  "malware-detection",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "security",
+                  "threat-intelligence",
+                  "typescript",
+                  "virus-scanning",
+                  "virustotal"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2383,12 +3796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a repository to experiment with MCP for security",
+                "homepage": null,
                 "id": 894937899,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-22T23:09:11Z",
+                "open_issues": 2,
                 "owner": "fr0gger",
                 "repo": "MCP_Security",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2399,12 +3817,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐕 Linux security audit tool",
+                "homepage": null,
                 "id": 1123753154,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-07T18:04:49Z",
+                "open_issues": 6,
                 "owner": "girste",
                 "repo": "CHIHUAUDIT",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "audit",
+                  "baseline",
+                  "devops",
+                  "go",
+                  "linux",
+                  "mcp",
+                  "monitoring",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2415,12 +3847,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.",
+                "homepage": "https://mcpdirs.com/",
                 "id": 936158314,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-18T09:03:21Z",
+                "open_issues": 1,
                 "owner": "qianniuspace",
                 "repo": "mcp-security-audit",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "audit",
+                  "model-context-protocol",
+                  "npm",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2431,12 +3873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rad Security MCP Server",
+                "homepage": "https://rad.security",
                 "id": 944570781,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T14:41:43Z",
+                "open_issues": 0,
                 "owner": "rad-security",
                 "repo": "mcp-server",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2447,12 +3894,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server for querying the CVE-Search API",
+                "homepage": null,
                 "id": 947223100,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-26T14:17:29Z",
+                "open_issues": 1,
                 "owner": "roadwy",
                 "repo": "cve-search_mcp",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "cve",
+                  "mcp-server",
+                  "vulunhub"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2463,12 +3919,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn your AI agent into a hacker by plugging in this MCP",
+                "homepage": "https://operantlabs.com",
                 "id": 1188556521,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-01T03:09:17Z",
+                "open_issues": 1,
                 "owner": "operantlabs",
                 "repo": "operant-mcp",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "cybersecurity",
+                  "cybersecurity-ai",
+                  "cybersecurity-tools",
+                  "offensive-security",
+                  "pentesting"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2479,12 +3946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All-in-one security testing toolbox that brings together popular open source tools through a single MCP interface. Connected to an AI agent, it enables tasks like pentesting, bug bounty hunting, threat hunting, and more.",
+                "homepage": null,
                 "id": 956481842,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-17T14:57:39Z",
+                "open_issues": 4,
                 "owner": "securityfortech",
                 "repo": "secops-mcp",
-                "stars": 207
+                "stars": 207,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2495,12 +3967,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CyberChef API MCP Server ✨🧑‍🍳",
+                "homepage": null,
                 "id": 967370398,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-03T13:00:00Z",
+                "open_issues": 0,
                 "owner": "slouchd",
                 "repo": "cyberchef-api-mcp-server",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2511,12 +3988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tellix is a conversational recon interface powered by httpx and LLMs. Just ask.",
+                "homepage": null,
                 "id": 958933817,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-04-22T20:38:25Z",
+                "open_issues": 0,
                 "owner": "nickpending",
                 "repo": "mcp-recon",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2527,12 +4009,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EnigmAgent — 6-layer encrypted vault for AI agents (AES-256 + ChaCha20 + Blowfish + Fernet + 3DES + RSA). P2P sync via Gun.js. Zero cloud. Part of P2PCLAW.",
+                "homepage": "https://www.npmjs.com/package/enigmagent-mcp",
                 "id": 1214957964,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-05T10:11:30Z",
+                "open_issues": 0,
                 "owner": "Agnuxo1",
                 "repo": "EnigmAgent",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "aes-256-gcm",
+                  "ai-agents",
+                  "argon2id",
+                  "credentials",
+                  "encryption",
+                  "llm-security",
+                  "mcp",
+                  "model-context-protocol",
+                  "nodejs",
+                  "privacy",
+                  "secrets-management",
+                  "security",
+                  "typescript",
+                  "vault"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2556,12 +4058,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
+                "homepage": "https://atlassian.com/platform/rovo-mcp",
                 "id": 1030580992,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T10:58:03Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:01:00Z",
+                "open_issues": 87,
                 "owner": "atlassian",
                 "repo": "atlassian-mcp-server",
-                "stars": 998
+                "stars": 999,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "atlassian",
+                  "bitbucket",
+                  "chatgpt",
+                  "claude",
+                  "compass",
+                  "confluence",
+                  "copilot",
+                  "cursor",
+                  "developer-tools",
+                  "jira",
+                  "jira-service-management",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "oauth",
+                  "rovo",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2579,12 +4107,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Go-based MCP (Model Control Protocol) connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.",
+                "homepage": null,
                 "id": 954698875,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-18T10:47:29Z",
+                "open_issues": 3,
                 "owner": "nguyenvanduocit",
                 "repo": "jira-mcp",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "ai",
+                  "golang-mcp",
+                  "jira",
+                  "jira-mcp",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2602,12 +4141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server that exposes PraisonAI tools for Claude Desktop, Cursor, and other MCP clients",
+                "homepage": null,
                 "id": 1119194574,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-13T13:58:19Z",
+                "open_issues": 0,
                 "owner": "MervinPraison",
                 "repo": "praisonai-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2625,12 +4169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server created for Freshdesk, allowing AI models to interact with Freshdesk modules",
+                "homepage": null,
                 "id": 951829374,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-30T12:27:17Z",
+                "open_issues": 12,
                 "owner": "effytech",
                 "repo": "freshdesk_mcp",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             },
@@ -2641,12 +4190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for the TopDesk ticketing system",
+                "homepage": null,
                 "id": 987132422,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-02T15:15:31Z",
+                "open_issues": 0,
                 "owner": "dbsanfte",
                 "repo": "topdesk-mcp",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2664,12 +4218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Notion MCP Server",
+                "homepage": null,
                 "id": 946169991,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T16:20:03Z",
+                "open_issues": 187,
                 "owner": "makenotion",
                 "repo": "notion-mcp-server",
-                "stars": 4610
+                "stars": 4611,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
             }
@@ -2691,12 +4250,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500756
+            "stars": 500897,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -2707,12 +4277,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3712,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92957
+            "stars": 93010,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -2723,12 +4301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Context Protocol Servers",
+            "homepage": "https://modelcontextprotocol.io",
             "id": 890668799,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:36:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T17:58:20Z",
+            "open_issues": 506,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89931
+            "stars": 89940,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -2739,12 +4322,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+            "homepage": "https://gofastmcp.com",
             "id": 896296825,
             "language": "Python",
-            "last_commit": "2026-08-28T02:57:32Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:01:50Z",
+            "open_issues": 292,
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27420
+            "stars": 27427,
+            "topics": [
+              "agents",
+              "fastmcp",
+              "llms",
+              "mcp",
+              "mcp-clients",
+              "mcp-servers",
+              "mcp-tools",
+              "model-context-protocol",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -2755,12 +4353,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP clients.",
+            "homepage": "https://glama.ai/mcp/clients",
             "id": 915233417,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-07T18:57:48Z",
+            "open_issues": 82,
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6555
+            "stars": 6557,
+            "topics": [
+              "clients",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         },
@@ -2771,12 +4377,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript framework for building MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 908799323,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:47:40Z",
+            "open_issues": 11,
             "owner": "punkpeye",
             "repo": "fastmcp",
-            "stars": 3257
+            "stars": 3257,
+            "topics": [
+              "mcp",
+              "sse"
+            ]
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
         }
@@ -2785,15 +4399,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:24:16.173Z",
+    "last_updated": "2026-08-29T04:57:48.894Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintained, production-ready integrations.",
+      "homepage": "https://trywagner.dev",
       "id": 1113881736,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-22T01:54:34Z",
+      "open_issues": 7,
       "owner": "WagnerAgent",
       "repo": "awesome-mcp-servers-devops",
-      "stars": 96
+      "stars": 96,
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "awesome",
+        "awesome-list",
+        "aws",
+        "azure",
+        "devops",
+        "devsecops",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "sre"
+      ]
     },
     "original_repository_sha": "b835e5c1b81cd0185dc50d3297243a7618e1a348",
     "enhanced_repository": "enhansome/enhansome-mcp-servers-devops",
