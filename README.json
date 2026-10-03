@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "github/github-mcp-server",
-              "description": null,
+              "description": "github/github-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,11 +17,11 @@
                 "id": 942771284,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T09:46:30Z",
-                "open_issues": 339,
+                "last_commit": "2026-10-02T21:42:02Z",
+                "open_issues": 341,
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 33323,
+                "stars": 33332,
                 "topics": [
                   "github",
                   "mcp",
@@ -123,10 +123,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 553,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90950,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -154,7 +154,7 @@
                 "open_issues": 16,
                 "owner": "Tiberriver256",
                 "repo": "mcp-server-azure-devops",
-                "stars": 394,
+                "stars": 393,
                 "topics": [
                   "ai",
                   "azure-devops",
@@ -251,10 +251,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 553,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90950,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -275,7 +275,7 @@
             {
               "node_type": "item",
               "title": "hashicorp/terraform-mcp-server",
-              "description": null,
+              "description": "hashicorp/terraform-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,8 +284,8 @@
                 "id": 969282615,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-01T23:38:32Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-02T20:44:16Z",
+                "open_issues": 53,
                 "owner": "hashicorp",
                 "repo": "terraform-mcp-server",
                 "stars": 1541,
@@ -368,8 +368,8 @@
                 "id": 945036417,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:31:47Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-02T15:11:07Z",
+                "open_issues": 0,
                 "owner": "nwiizo",
                 "repo": "tfmcp",
                 "stars": 372,
@@ -433,7 +433,7 @@
             {
               "node_type": "item",
               "title": "hashicorp/vault-mcp-server",
-              "description": null,
+              "description": "hashicorp/vault-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -463,7 +463,7 @@
             {
               "node_type": "item",
               "title": "opentofu/opentofu-mcp-server",
-              "description": null,
+              "description": "opentofu/opentofu-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
             {
               "node_type": "item",
               "title": "stakpak/mcp",
-              "description": null,
+              "description": "stakpak/mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -527,7 +527,7 @@
                 {
                   "node_type": "item",
                   "title": "containers/kubernetes-mcp-server",
-                  "description": null,
+                  "description": "containers/kubernetes-mcp-server",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -536,7 +536,7 @@
                     "id": 930678258,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T01:05:00Z",
+                    "last_commit": "2026-10-02T20:01:04Z",
                     "open_issues": 112,
                     "owner": "containers",
                     "repo": "kubernetes-mcp-server",
@@ -565,7 +565,7 @@
                 {
                   "node_type": "item",
                   "title": "Azure/mcp-kubernetes",
-                  "description": null,
+                  "description": "Azure/mcp-kubernetes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -597,7 +597,7 @@
                 {
                   "node_type": "item",
                   "title": "Flux159/mcp-server-kubernetes",
-                  "description": null,
+                  "description": "Flux159/mcp-server-kubernetes",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -630,7 +630,7 @@
                 {
                   "node_type": "item",
                   "title": "alexei-led/k8s-mcp-server",
-                  "description": null,
+                  "description": "alexei-led/k8s-mcp-server",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -682,10 +682,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-04-08T22:37:48Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "rohitg00",
                     "repo": "kubectl-mcp-server",
-                    "stars": 961,
+                    "stars": 960,
                     "topics": [
                       "ai",
                       "deployment",
@@ -736,7 +736,7 @@
                     "id": 930678258,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T01:05:00Z",
+                    "last_commit": "2026-10-02T20:01:04Z",
                     "open_issues": 112,
                     "owner": "containers",
                     "repo": "kubernetes-mcp-server",
@@ -877,8 +877,8 @@
                     "id": 1135473716,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T05:55:25Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-03T04:44:11Z",
+                    "open_issues": 4,
                     "owner": "kubestellar",
                     "repo": "console",
                     "stars": 140,
@@ -901,7 +901,7 @@
             {
               "node_type": "item",
               "title": "rrmistry/tilt-mcp",
-              "description": null,
+              "description": "rrmistry/tilt-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -937,7 +937,7 @@
             {
               "node_type": "item",
               "title": "kocierik/mcp-nomad",
-              "description": null,
+              "description": "kocierik/mcp-nomad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -969,7 +969,7 @@
             {
               "node_type": "item",
               "title": "docker/hub-mcp",
-              "description": null,
+              "description": "docker/hub-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -997,7 +997,7 @@
             {
               "node_type": "item",
               "title": "solomon2773/nora",
-              "description": null,
+              "description": "solomon2773/nora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1006,8 +1006,8 @@
                 "id": 1186006472,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T20:49:26Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-02T19:58:57Z",
+                "open_issues": 14,
                 "owner": "solomon2773",
                 "repo": "nora",
                 "stars": 56,
@@ -1046,7 +1046,7 @@
             {
               "node_type": "item",
               "title": "sandbaseai/sandbase-harness",
-              "description": null,
+              "description": "sandbaseai/sandbase-harness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1055,11 +1055,11 @@
                 "id": 1297278222,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:05:46Z",
+                "last_commit": "2026-10-03T04:21:01Z",
                 "open_issues": 9,
                 "owner": "sandbaseai",
                 "repo": "sandbase-harness",
-                "stars": 679,
+                "stars": 680,
                 "topics": [
                   "agent-harness",
                   "agent-observability",
@@ -1088,7 +1088,7 @@
             {
               "node_type": "item",
               "title": "Installation and MCP configuration",
-              "description": null,
+              "description": "sandbaseai/sandbase-harness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1097,11 +1097,11 @@
                 "id": 1297278222,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:05:46Z",
+                "last_commit": "2026-10-03T04:21:01Z",
                 "open_issues": 9,
                 "owner": "sandbaseai",
                 "repo": "sandbase-harness",
-                "stars": 679,
+                "stars": 680,
                 "topics": [
                   "agent-harness",
                   "agent-observability",
@@ -1137,7 +1137,7 @@
             {
               "node_type": "item",
               "title": "portainer/portainer-mcp",
-              "description": null,
+              "description": "portainer/portainer-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1150,7 +1150,7 @@
                 "open_issues": 9,
                 "owner": "portainer",
                 "repo": "portainer-mcp",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "ai",
                   "containerization",
@@ -1279,7 +1279,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T08:44:05Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "tumf",
             "repo": "mcp-shell-server",
             "stars": 198,
@@ -1399,7 +1399,7 @@
             "open_issues": 302,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9875,
+            "stars": 9885,
             "topics": [
               "agent",
               "ai",
@@ -1489,7 +1489,7 @@
             "open_issues": 52,
             "owner": "browserbase",
             "repo": "mcp-server-browserbase",
-            "stars": 3412,
+            "stars": 3411,
             "topics": [
               "ai",
               "browser",
@@ -1515,10 +1515,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2025-04-24T21:49:44Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "BrowserMCP",
             "repo": "mcp",
-            "stars": 7151,
+            "stars": 7155,
             "topics": [
               "browser-automation",
               "browser-extension",
@@ -1585,10 +1585,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T23:19:44Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 37755,
+            "stars": 37771,
             "topics": [
               "mcp",
               "playwright"
@@ -1736,7 +1736,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -1780,11 +1780,11 @@
             "id": 818331198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:02:58Z",
-            "open_issues": 1386,
+            "last_commit": "2026-10-03T04:43:51Z",
+            "open_issues": 1361,
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 20350,
+            "stars": 20371,
             "topics": [
               "agent-framework",
               "genai",
@@ -1931,10 +1931,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T21:03:51Z",
-            "open_issues": 193,
+            "open_issues": 195,
             "owner": "oraios",
             "repo": "serena",
-            "stars": 29944,
+            "stars": 29952,
             "topics": [
               "agent",
               "ai",
@@ -2027,8 +2027,8 @@
             "id": 1115350109,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:53:50Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-02T22:20:27Z",
+            "open_issues": 3,
             "owner": "contextstream",
             "repo": "mcp-server",
             "stars": 43,
@@ -2159,8 +2159,8 @@
             "id": 1232710515,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T04:31:37Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-02T13:23:23Z",
+            "open_issues": 37,
             "owner": "Necmttn",
             "repo": "ax",
             "stars": 114,
@@ -2461,7 +2461,7 @@
             "open_issues": 114,
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2694,
+            "stars": 2693,
             "topics": [
               "mcp",
               "mcp-gateway",
@@ -2498,7 +2498,7 @@
             "open_issues": 6,
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39778,
+            "stars": 39780,
             "topics": [
               "agents",
               "ai",
@@ -2556,7 +2556,7 @@
             "open_issues": 0,
             "owner": "boltmcp",
             "repo": "boltmcp",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "agentic-ai",
               "llm",
@@ -2579,11 +2579,11 @@
             "id": 235468657,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T04:59:20Z",
-            "open_issues": 4478,
+            "last_commit": "2026-10-02T22:13:01Z",
+            "open_issues": 4481,
             "owner": "PipedreamHQ",
             "repo": "pipedream",
-            "stars": 11719,
+            "stars": 11720,
             "topics": [
               "apis",
               "automation",
@@ -2730,8 +2730,8 @@
             "id": 1300999234,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T07:04:47Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-03T03:47:19Z",
+            "open_issues": 3,
             "owner": "agentage",
             "repo": "find-mcp",
             "stars": 5,
@@ -2757,7 +2757,7 @@
             {
               "node_type": "item",
               "title": "akuity/argocd-mcp",
-              "description": null,
+              "description": "argoproj-labs/mcp-for-argocd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2798,7 +2798,7 @@
             {
               "node_type": "item",
               "title": "jenkinsci/mcp-server-plugin",
-              "description": null,
+              "description": "jenkinsci/mcp-server-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2829,7 +2829,7 @@
             {
               "node_type": "item",
               "title": "stefanoamorelli/codemagic-mcp",
-              "description": null,
+              "description": "stefanoamorelli/codemagic-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2857,7 +2857,7 @@
             {
               "node_type": "item",
               "title": "ghost-in-the-droid/android-agent",
-              "description": null,
+              "description": "ghost-in-the-droid/android-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2870,7 +2870,7 @@
                 "open_issues": 3,
                 "owner": "ghost-in-the-droid",
                 "repo": "android-agent",
-                "stars": 374,
+                "stars": 373,
                 "topics": [
                   "adb",
                   "android",
@@ -3158,7 +3158,7 @@
                 "open_issues": 5,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3887,
+                "stars": 3886,
                 "topics": [
                   "agents",
                   "claude-code-plugin",
@@ -3190,7 +3190,7 @@
             {
               "node_type": "item",
               "title": "awslabs/mcp",
-              "description": null,
+              "description": "awslabs/mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3199,11 +3199,11 @@
                 "id": 952238700,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T20:12:53Z",
-                "open_issues": 254,
+                "last_commit": "2026-10-02T23:11:33Z",
+                "open_issues": 257,
                 "owner": "awslabs",
                 "repo": "mcp",
-                "stars": 9749,
+                "stars": 9747,
                 "topics": [
                   "aws",
                   "mcp",
@@ -3314,7 +3314,7 @@
             {
               "node_type": "item",
               "title": "cloudflare/mcp-server-cloudflare",
-              "description": null,
+              "description": "cloudflare/mcp-server-cloudflare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3327,7 +3327,7 @@
                 "open_issues": 83,
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4345,
+                "stars": 4349,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -3342,7 +3342,7 @@
             {
               "node_type": "item",
               "title": "aliyun/alibaba-cloud-ops-mcp-server",
-              "description": null,
+              "description": "aliyun/alibaba-cloud-ops-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3404,7 +3404,7 @@
             {
               "node_type": "item",
               "title": "cohesivity-org/cohesivity-plugin",
-              "description": null,
+              "description": "cohesivity-org/cohesivity-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3425,7 +3425,7 @@
             {
               "node_type": "item",
               "title": "Installation and client packages",
-              "description": null,
+              "description": "cohesivity-org/cohesivity-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3508,7 +3508,7 @@
             {
               "node_type": "item",
               "title": "grafana/mcp-grafana",
-              "description": null,
+              "description": "grafana/mcp-grafana",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3517,11 +3517,11 @@
                 "id": 907869862,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:35:50Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-02T21:12:06Z",
+                "open_issues": 86,
                 "owner": "grafana",
                 "repo": "mcp-grafana",
-                "stars": 3522,
+                "stars": 3525,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -3565,7 +3565,7 @@
             {
               "node_type": "item",
               "title": "TANTIOPE/datadog-mcp-server",
-              "description": null,
+              "description": "TANTIOPE/datadog-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3574,7 +3574,7 @@
                 "id": 1116861729,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T22:29:47Z",
+                "last_commit": "2026-10-02T22:55:06Z",
                 "open_issues": 17,
                 "owner": "TANTIOPE",
                 "repo": "datadog-mcp-server",
@@ -3727,7 +3727,7 @@
             {
               "node_type": "item",
               "title": "VictoriaMetrics-Community/mcp-victoriametrics",
-              "description": null,
+              "description": "VictoriaMetrics/mcp-victoriametrics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3763,7 +3763,7 @@
             {
               "node_type": "item",
               "title": "kaznak/alertmanager-mcp",
-              "description": null,
+              "description": "kaznak/alertmanager-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3829,7 +3829,7 @@
                 "id": 956279002,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T06:36:56Z",
+                "last_commit": "2026-10-03T03:07:15Z",
                 "open_issues": 10,
                 "owner": "last9",
                 "repo": "last9-mcp-server",
@@ -3891,7 +3891,7 @@
             {
               "node_type": "item",
               "title": "semgrep/mcp",
-              "description": null,
+              "description": "semgrep/mcp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3922,7 +3922,7 @@
             {
               "node_type": "item",
               "title": "palisadeemail/palisade-mcp",
-              "description": null,
+              "description": "palisadeemail/palisade-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4005,7 +4005,7 @@
                 "open_issues": 83,
                 "owner": "LaurieWired",
                 "repo": "GhidraMCP",
-                "stars": 10242,
+                "stars": 10252,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -4369,8 +4369,8 @@
                 "id": 1195908149,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T08:53:56Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-03T02:04:23Z",
+                "open_issues": 10,
                 "owner": "sunglasses-dev",
                 "repo": "sunglasses",
                 "stars": 8,
@@ -4415,7 +4415,7 @@
             {
               "node_type": "item",
               "title": "atlassian/atlassian-mcp-server",
-              "description": null,
+              "description": "atlassian/atlassian-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4425,10 +4425,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T19:26:27Z",
-                "open_issues": 90,
+                "open_issues": 92,
                 "owner": "atlassian",
                 "repo": "atlassian-mcp-server",
-                "stars": 1079,
+                "stars": 1078,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -4464,7 +4464,7 @@
             {
               "node_type": "item",
               "title": "nguyenvanduocit/jira-mcp",
-              "description": null,
+              "description": "nguyenvanduocit/jira-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4498,7 +4498,7 @@
             {
               "node_type": "item",
               "title": "MervinPraison/praisonai-mcp",
-              "description": null,
+              "description": "MervinPraison/praisonai-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4526,7 +4526,7 @@
             {
               "node_type": "item",
               "title": "Noveum/orbit",
-              "description": null,
+              "description": "Noveum/orbit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4539,7 +4539,7 @@
                 "open_issues": 60,
                 "owner": "Noveum",
                 "repo": "orbit",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "agile",
                   "bun",
@@ -4568,7 +4568,7 @@
             {
               "node_type": "item",
               "title": "Connection and permissions guide",
-              "description": null,
+              "description": "Noveum/orbit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4581,7 +4581,7 @@
                 "open_issues": 60,
                 "owner": "Noveum",
                 "repo": "orbit",
-                "stars": 56,
+                "stars": 57,
                 "topics": [
                   "agile",
                   "bun",
@@ -4630,7 +4630,7 @@
                 "open_issues": 13,
                 "owner": "effytech",
                 "repo": "freshdesk_mcp",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -4666,7 +4666,7 @@
             {
               "node_type": "item",
               "title": "makenotion/notion-mcp-server",
-              "description": null,
+              "description": "makenotion/notion-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4679,7 +4679,7 @@
                 "open_issues": 198,
                 "owner": "makenotion",
                 "repo": "notion-mcp-server",
-                "stars": 4655,
+                "stars": 4656,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -4698,7 +4698,7 @@
         {
           "node_type": "item",
           "title": "awesome",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4711,7 +4711,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513452,
+            "stars": 513797,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4725,7 +4725,7 @@
         {
           "node_type": "item",
           "title": "awesome-mcp-servers",
-          "description": null,
+          "description": "punkpeye/awesome-mcp-servers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4735,7 +4735,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-27T02:12:17Z",
-            "open_issues": 2739,
+            "open_issues": 2795,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
             "stars": 95766,
@@ -4749,7 +4749,7 @@
         {
           "node_type": "item",
           "title": "MCP Reference Servers",
-          "description": null,
+          "description": "modelcontextprotocol/servers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4759,10 +4759,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T15:33:30Z",
-            "open_issues": 553,
+            "open_issues": 551,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90950,
+            "stars": 90961,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
@@ -4770,7 +4770,7 @@
         {
           "node_type": "item",
           "title": "FastMCP (jlowin)",
-          "description": null,
+          "description": "PrefectHQ/fastmcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4779,11 +4779,11 @@
             "id": 896296825,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:19:02Z",
-            "open_issues": 433,
+            "last_commit": "2026-10-03T01:10:31Z",
+            "open_issues": 437,
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27957,
+            "stars": 27959,
             "topics": [
               "agents",
               "fastmcp",
@@ -4801,7 +4801,7 @@
         {
           "node_type": "item",
           "title": "awesome-mcp-clients",
-          "description": null,
+          "description": "punkpeye/awesome-mcp-clients",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4811,10 +4811,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-06-07T18:57:48Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6592,
+            "stars": 6593,
             "topics": [
               "clients",
               "mcp"
@@ -4825,7 +4825,7 @@
         {
           "node_type": "item",
           "title": "FastMCP (punkpeye)",
-          "description": null,
+          "description": "punkpeye/fastmcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4835,7 +4835,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-30T05:35:40Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "punkpeye",
             "repo": "fastmcp",
             "stars": 3272,
@@ -4851,7 +4851,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:47:56.099Z",
+    "last_updated": "2026-10-03T04:54:43.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintained, production-ready integrations.",
@@ -4863,7 +4863,7 @@
       "open_issues": 8,
       "owner": "WagnerAgent",
       "repo": "awesome-mcp-servers-devops",
-      "stars": 97,
+      "stars": 96,
       "topics": [
         "agentic-ai",
         "ai",
