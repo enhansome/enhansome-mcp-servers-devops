@@ -126,7 +126,7 @@
                 "open_issues": 491,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91035,
+                "stars": 91036,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -254,7 +254,7 @@
                 "open_issues": 491,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 91035,
+                "stars": 91036,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -1399,7 +1399,7 @@
             "open_issues": 311,
             "owner": "wonderwhy-er",
             "repo": "DesktopCommanderMCP",
-            "stars": 9933,
+            "stars": 9932,
             "topics": [
               "agent",
               "ai",
@@ -1518,7 +1518,7 @@
             "open_issues": 154,
             "owner": "BrowserMCP",
             "repo": "mcp",
-            "stars": 7159,
+            "stars": 7160,
             "topics": [
               "browser-automation",
               "browser-extension",
@@ -1780,11 +1780,11 @@
             "id": 818331198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:26:02Z",
-            "open_issues": 1386,
+            "last_commit": "2026-10-06T10:53:20Z",
+            "open_issues": 1383,
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 20425,
+            "stars": 20427,
             "topics": [
               "agent-framework",
               "genai",
@@ -1930,8 +1930,8 @@
             "id": 953683578,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:42:02Z",
-            "open_issues": 162,
+            "last_commit": "2026-10-06T10:39:48Z",
+            "open_issues": 159,
             "owner": "oraios",
             "repo": "serena",
             "stars": 30042,
@@ -2498,7 +2498,7 @@
             "open_issues": 6,
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39781,
+            "stars": 39782,
             "topics": [
               "agents",
               "ai",
@@ -3203,7 +3203,7 @@
                 "open_issues": 254,
                 "owner": "awslabs",
                 "repo": "mcp",
-                "stars": 9756,
+                "stars": 9757,
                 "topics": [
                   "aws",
                   "mcp",
@@ -4019,7 +4019,7 @@
                 "open_issues": 83,
                 "owner": "LaurieWired",
                 "repo": "GhidraMCP",
-                "stars": 10488,
+                "stars": 10494,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:24:16.173Z"
@@ -4383,8 +4383,8 @@
                 "id": 1195908149,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:56:42Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-06T10:42:36Z",
+                "open_issues": 9,
                 "owner": "sunglasses-dev",
                 "repo": "sunglasses",
                 "stars": 9,
@@ -4725,7 +4725,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515354,
+            "stars": 515370,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4776,7 +4776,7 @@
             "open_issues": 491,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 91035,
+            "stars": 91036,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:16.173Z"
@@ -4794,7 +4794,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T21:27:53Z",
-            "open_issues": 435,
+            "open_issues": 436,
             "owner": "PrefectHQ",
             "repo": "fastmcp",
             "stars": 27981,
@@ -4865,7 +4865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:17.496Z",
+    "last_updated": "2026-10-06T10:56:50.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintained, production-ready integrations.",
